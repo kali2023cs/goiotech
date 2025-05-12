@@ -489,51 +489,9 @@
    </div>
   <div class="mobile-nav mobile-nav1">
     <ul class="mobile-nav-list nav-list1">
-      <li><a href="#" >Home </a>
-        <ul class="sub-menu">
-          <li>
-            <a href="#">Multiple Page</a>
-            <ul class="sub-menu">
-              <li><a href="index.html">Home One</a></li>
-              <li><a href="index2.html">Home Two</a></li>
-              <li><a href="index3.html">Home Three</a></li>
-              <li><a href="index4.html">Home Four</a></li>
-              <li><a href="index5.html">Home Five</a></li>
-              <li><a href="index6.html">Home Six</a></li>
-              <li><a href="index7.html">Home Seven</a></li>
-              <li><a href="index8.html">Home Eight</a></li>
-              <li><a href="index9.html">Home Nine</a></li>
-              <li><a href="index10.html">Home Ten</a></li>
-              <li><a href="index11.html">Home Eleven</a></li>
-              <li><a href="index12.html">Home Twelve</a></li>
-              <li><a href="index13.html">Home Thirteen</a></li>
-              <li><a href="index14.html">Home Fouteen</a></li>
-              <li><a href="index15.html">Home Fifteen</a></li>
-            </ul>
-          </li>
-          <li>
-            <a href="#">Landing Page</a>
-            <ul class="sub-menu">
-              <li><a href="single-index1.html" target="_blank">Home One</a></li>
-              <li><a href="single-index2.html" target="_blank">Home Two</a></li>
-              <li><a href="single-index3.html" target="_blank">Home Three</a></li>
-              <li><a href="single-index4.html" target="_blank">Home Four</a></li>
-              <li><a href="single-index5.html" target="_blank">Home Five</a></li>
-              <li><a href="single-index6.html" target="_blank">Home Six</a></li>
-              <li><a href="single-index7.html" target="_blank">Home Seven</a></li>
-              <li><a href="single-index8.html" target="_blank">Home Eight</a></li>
-              <li><a href="single-index9.html" target="_blank">Home Nine</a></li>
-              <li><a href="single-index10.html" target="_blank">Home Ten</a></li>
-              <li><a href="single-index11.html" target="_blank">Home Eleven</a></li>
-              <li><a href="single-index12.html" target="_blank">Home Twelve</a></li>
-              <li><a href="single-index13.html" target="_blank">Home Thirteen</a></li>
-              <li><a href="single-index14.html" target="_blank">Home Fouteen</a></li>
-              <li><a href="single-index15.html" target="_blank">Home Fifteen</a></li>
-            </ul>
-          </li>
-        </ul>
+      <li><a href="{{route('home')}}" >Home </a>
       </li>
-      <li><a href="about.html">About</a></li>
+      <li><a href="{{route('about')}}">About</a></li>
       <li><a href="404-3.html">Services</a>
         <ul class="sub-menu">
           <li><a href="{{ route('service1') }}">Service One</a></li>

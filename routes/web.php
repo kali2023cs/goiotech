@@ -23,3 +23,9 @@ Route::get('/pricing', [WelcomeController::class, 'pricing'])->name('pricing');
 Route::get('/404', [WelcomeController::class, 'fournotfout'])->name('404');
 Route::get('/faq', [WelcomeController::class, 'faq'])->name('faq');
 
+
+Route::get('/case-hotel-management', [WelcomeController::class, 'case-hotel-management'])->name('case-hotel-management');
+Route::get('/case-mobile-app', [WelcomeController::class, 'case-mobile-app'])->name('case-mobile-app');
+Route::get('/case-digital-marketing', [WelcomeController::class, 'case-digital-marketing'])->name('case-digital-marketing');
+Route::get('/case-ecommerce', [WelcomeController::class, 'case-ecommerce'])->name('case-ecommerce');
+

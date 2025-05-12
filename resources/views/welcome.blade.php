@@ -280,25 +280,31 @@
               </div>
             </div>
             <div class="cs_case_study cs_style_1 cs_hover_active" data-aos="fade-up" data-aos-duration="1000">
-              <a href="{{ route('case-single') }}" class="cs_case_study_thumb cs_case_study_thumb3 cs_bg_filed" data-src="assets/img/all-images/case-img3.png"></a>
+              <a href="{{ route('case-hotel-management') }}" class="cs_case_study_thumb cs_case_study_thumb3 cs_bg_filed" data-src="assets/img/all-images/hotel-management.png"></a>
+              
               <div class="content-area1">
-                <a href="{{ route('case-single') }}">PPC Advertising</a>
+                <a href="{{ route('case-hotel-management') }}">Hotel Management Systems</a>
               </div>
+              
               <div class="content-area">
-                <a href="{{ route('case-single') }}">PPC Advertising</a>
-                <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
+                <a href="{{ route('case-hotel-management') }}">Hotel Management</a>
+                <p>Our Hotel Management System streamlines booking, front desk, housekeeping, and billing to enhance hospitality services with efficiency and ease.</p>
               </div>
             </div>
+
             <div class="cs_case_study cs_style_1 cs_hover_active" data-aos="fade-up" data-aos-duration="1100">
-              <a href="{{ route('case-single') }}" class="cs_case_study_thumb cs_case_study_thumb4 cs_bg_filed" data-src="assets/img/all-images/case-img4.png"></a>
+              <a href="{{ route('case-mobile-app') }}" class="cs_case_study_thumb cs_case_study_thumb4 cs_bg_filed" data-src="assets/img/all-images/mobile-app-development.png"></a>
+              
               <div class="content-area1">
-                <a href="{{ route('case-single') }}">Social Media Marketing</a>
+                <a href="{{ route('case-mobile-app') }}">Mobile App Development</a>
               </div>
+              
               <div class="content-area">
-                <a href="{{ route('case-single') }}">Social Media Marketing</a>
-                <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
+                <a href="{{ route('case-mobile-app') }}">Mobile App Development</a>
+                <p>We build intuitive, high-performance mobile apps tailored to your business needs—enhancing user engagement and driving digital growth across platforms.</p>
               </div>
             </div>
+
             <div class="cs_case_study cs_style_1 cs_hover_active" data-aos="fade-up" data-aos-duration="1200">
               <a href="{{ route('case-single') }}" class="cs_case_study_thumb cs_case_study_thumb5 cs_bg_filed" data-src="assets/img/all-images/case-img5.png"></a>
               <div class="content-area1">
@@ -310,24 +316,31 @@
               </div>
             </div>
             <div class="cs_case_study cs_style_1 cs_hover_active" data-aos="fade-up" data-aos-duration="1300">
-              <a href="{{ route('case-single') }}" class="cs_case_study_thumb cs_case_study_thumb6 cs_bg_filed" data-src="assets/img/all-images/case-img6.png"></a>
+              <a href="{{ route('case-ecommerce') }}" class="cs_case_study_thumb cs_case_study_thumb6 cs_bg_filed" data-src="assets/img/all-images/ecommerce-website.png"></a>
+              
               <div class="content-area1">
-                <a href="{{ route('case-single') }}">Email Marketing</a>
+                <a href="{{ route('case-ecommerce') }}">E-commerce Website Build</a>
               </div>
+              
               <div class="content-area">
-                <a href="{{ route('case-single') }}">Email Marketing</a>
-                <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
+                <a href="{{ route('case-ecommerce') }}">E-commerce Website Build</a>
+                <p>We design and develop scalable, secure, and user-friendly e-commerce websites that enhance shopping experiences and drive online sales.</p>
               </div>
             </div>
-            <div class="cs_case_study cs_style_1 cs_hover_active " style="margin: 0 !important;" data-aos="fade-up" data-aos-duration="1400">
-              <a href="{{ route('case-single') }}" class="cs_case_study_thumb cs_case_study_thumb7 cs_bg_filed" data-src="assets/img/all-images/case-img7.png"></a>
+
+            <div class="cs_case_study cs_style_1 cs_hover_active" style="margin: 0 !important;" data-aos="fade-up" data-aos-duration="1400">
+              <a href="{{ route('case-digital-marketing') }}" class="cs_case_study_thumb cs_case_study_thumb7 cs_bg_filed" data-src="assets/img/all-images/digital-marketing.png"></a>
+              
               <div class="content-area1">
-                <a href="{{ route('case-single') }}">Analytics & Reporting</a>
+                <a href="{{ route('case-digital-marketing') }}">Digital Marketing</a>
               </div>
+              
               <div class="content-area">
-                <a href="{{ route('case-single') }}">Analytics & Reporting</a>
-                <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
+                <a href="{{ route('case-digital-marketing') }}">Digital Marketing</a>
+                <p>Our digital marketing solutions boost your brand visibility, drive targeted traffic, and convert leads through SEO, SEM, social media, and content strategies.</p>
               </div>
+            </div>
+
             </div>
           </div>
       </div>
@@ -450,7 +463,7 @@
 <!--===== TESTIMONIAL AREA ENDS =======-->
 
 <!--===== BLOG AREA STARTS =======-->
-<div class="blog1-scetion-area">
+<!-- <div class="blog1-scetion-area">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 m-auto">
@@ -523,7 +536,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <!--===== BLOG AREA ENDS =======-->
 
 <!--===== CONTACT AREA STARTS =======-->

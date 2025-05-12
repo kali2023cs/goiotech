@@ -17,12 +17,12 @@
 <!--===== HERO AREA ENDS =======-->
 
 <!--===== ABOUT AREA STARTS =======-->
-<div class="about1-section-area sp6 bg-white">
+<div class="about1-section-area sp6">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-lg-4">
         <div class="about-images">
-         <figure class="image-anime">
+         <figure class="image-anime reveal">
           <img src="assets/img/all-images/about-img1.png" alt="">
          </figure>
           <img src="assets/img/elements/star1.png" alt="" class="star1 keyframe5">
@@ -31,22 +31,22 @@
       <div class="col-lg-5">
         <div class="about-content-area heading2">
           <div class="arrow-circle">
-          <a href="about.html">
+          <a href="{{ route('about') }}">
             <img src="assets/img/elements/elements4.png" alt="" class="elements4 keyframe5">
             <img src="assets/img/icons/arrow.svg" alt="" class="arrow">
           </a>
           </div>
-          <h2>Comprehensive SEO & Digital Marketing Solutions.</h2>
-          <p>Welcome to SEOC your trusted partner for comprehensive SEO and digital marketing solutions. With our proven expertise and innovative strategies the digital landscape.</p>
-          <div class="btn-area">
-            <a href="about.html" class="header-btn1">Learn More<span><i class="fa-solid fa-arrow-right"></i></span></a>
+          <h2 class="text-anime-style-3">Custom Website & Software Development Solutions</h2>
+          <p data-aos="fade-left" data-aos-duration="1000">At GOIO, we specialize in delivering high-performance website and software solutions tailored to your business needs. Our expertise, innovation, and commitment to excellence ensure seamless digital transformation.</p>
+          <div class="btn-area" data-aos="fade-left" data-aos-duration="1200">
+            <a href="{{ route('about') }}" class="header-btn1">Learn More<span><i class="fa-solid fa-arrow-right"></i></span></a>
           </div>
         </div>
       </div>
       <div class="col-lg-3">
         <div class="about-auhtor-images">
           <img src="assets/img/elements/elements5.png" alt="" class="elements5 keyframe5">
-          <figure class="image-anime">
+          <figure class="image-anime reveal">
             <img src="assets/img/all-images/about-img2.png" alt="">
            </figure>
         </div>
@@ -97,7 +97,7 @@
                 <div class="works-header-area heading2">
                     <h5>Why Choose Us</h5>
                     <h2>Experience the Advantage Why We're the Right Choice</h2>
-                    <p>At SEOC we understand that you have many options when it comes to digital marketing services. So why should you choose us? Here are a few reasons</p>
+                    <p>At GOIO we understand that you have many options when it comes to digital marketing services. So why should you choose us? Here are a few reasons</p>
                     <div class="space32"></div>
                     <div class="works-content-box">
                         <div class="icons">
