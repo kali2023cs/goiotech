@@ -11,8 +11,8 @@
 <p data-aos="fade-left" data-aos-duration="1000">Welcome to GOIO, where we craft innovative websites <br class="d-lg-block d-none"> and software solutions tailored to drive your business forward.</p>
 
           <div class="btn-area" data-aos="fade-left" data-aos-duration="1200">
-            <a href="contact.html" class="header-btn1">Start Ranking Now <span><i class="fa-solid fa-arrow-right"></i></span></a>
-            <a href="contact.html" class="header-btn2">Contact Now <span><i class="fa-solid fa-arrow-right"></i></span></a>
+            <a href="{{ route('contact') }}" class="header-btn1">Start Ranking Now <span><i class="fa-solid fa-arrow-right"></i></span></a>
+            <a href="{{ route('contact') }}" class="header-btn2">Contact Now <span><i class="fa-solid fa-arrow-right"></i></span></a>
           </div>
         </div>
       </div>
@@ -93,7 +93,7 @@
       <div class="col-lg-5">
         <div class="about-content-area heading2">
           <div class="arrow-circle">
-          <a href="about.html">
+          <a href="{{ route('about') }}">
             <img src="assets/img/elements/elements4.png" alt="" class="elements4 keyframe5">
             <img src="assets/img/icons/arrow.svg" alt="" class="arrow">
           </a>
@@ -101,7 +101,7 @@
           <h2 class="text-anime-style-3">Custom Website & Software Development Solutions</h2>
           <p data-aos="fade-left" data-aos-duration="1000">At GOIO, we specialize in delivering high-performance website and software solutions tailored to your business needs. Our expertise, innovation, and commitment to excellence ensure seamless digital transformation.</p>
           <div class="btn-area" data-aos="fade-left" data-aos-duration="1200">
-            <a href="about.html" class="header-btn1">Learn More<span><i class="fa-solid fa-arrow-right"></i></span></a>
+            <a href="{{ route('about') }}" class="header-btn1">Learn More<span><i class="fa-solid fa-arrow-right"></i></span></a>
           </div>
         </div>
       </div>
@@ -136,7 +136,7 @@
       <div class="col-lg-12">
         <div class="service-all-boxes-area">
           <div class="service-boxarea" data-aos="zoom-in" data-aos-duration="800">
-            <a href="service1.html">Search Engine Optimization ( SEO)</a>
+            <a href="{{ route('service1') }}">Search Engine Optimization ( SEO)</a>
             <div class="space40"></div>
             <img src="assets/img/icons/service-icon1.svg" alt="">
             <div class="space40"></div>
@@ -144,7 +144,7 @@
           </div>
 
           <div class="service-boxarea box2" data-aos="zoom-in" data-aos-duration="1000">
-            <a href="service1.html">Custom Web Application Development</a>
+            <a href="{{ route('service1') }}">Custom Web Application Development</a>
             <div class="space40"></div>
             <img src="assets/img/icons/service-icon2.svg" alt="">
             <div class="space40"></div>
@@ -153,7 +153,7 @@
         
 
           <!-- <div class="service-boxarea box3" data-aos="zoom-in" data-aos-duration="1200">
-            <a href="service1.html">Social Media Marketing</a>
+            <a href="{{ route('service1') }}">Social Media Marketing</a>
             <div class="space66"></div>
             <img src="assets/img/icons/service-icon3.svg" alt="">
             <div class="space40"></div>
@@ -161,7 +161,7 @@
           </div> -->
 
           <div class="service-boxarea box4" data-aos="zoom-in" data-aos-duration="1400">
-            <a href="service1.html">Website Design and Development</a>
+            <a href="{{ route('service1') }}">Website Design and Development</a>
             <div class="space40"></div>
             <img src="assets/img/icons/service-icon4.svg" alt="">
             <div class="space40"></div>
@@ -195,15 +195,15 @@
           </div>
           <div class="content-area">
             <h5>Our Value</h5>
-            <a href="service1.html" class="text text-anime-style-3">Explore Our Unique Value Proposition & How We Drive Business Growth</a>
+            <a href="{{ route('service1') }}" class="text text-anime-style-3">Explore Our Unique Value Proposition & How We Drive Business Growth</a>
             <p data-aos="fade-up" data-aos-duration="1000">we're committed to delivering exceptional value to our clients. We understand that every business is unique, personalized approach to every project we undertake.</p>
             <div class="btn-area" data-aos="fade-up" data-aos-duration="1200">
-              <a href="service1.html" class="header-btn1">Learn More <span><i class="fa-solid fa-arrow-right"></i></span>
+              <a href="{{ route('service1') }}" class="header-btn1">Learn More <span><i class="fa-solid fa-arrow-right"></i></span>
               </a>
             </div>
           </div>
           <div class="arrow-area">
-            <a href="service1.html"><i class="fa-solid fa-arrow-right"></i></a>
+            <a href="{{ route('service1') }}"><i class="fa-solid fa-arrow-right"></i></a>
           </div>
         </div>
       </div>
@@ -213,11 +213,11 @@
             <div class="col-lg-12 col-md-6">
               <div class="service2-auhtor-boxarea" data-aos="zoom-out" data-aos-duration="1000">
                 <div class="arrow">
-                  <a href="service1.html"><i class="fa-solid fa-arrow-right"></i></a>
+                  <a href="{{ route('service1') }}"><i class="fa-solid fa-arrow-right"></i></a>
                 </div>
                 <div class="content-area">
                   <h5>Our Mission</h5>
-                  <a href="service1.html">We strive to be more than just a service provider. we aim to be a trusted technology partner.</a>
+                  <a href="{{ route('service1') }}">We strive to be more than just a service provider. we aim to be a trusted technology partner.</a>
                   <p>To empower businesses of all sizes with high-quality, affordable software and website development solutions that drive growth, efficiency, and digital transformation. We strive to deliver innovative, scalable, and cost-effective technology tailored to our clients' needs, ensuring maximum value with minimal investment.</p>
                 </div>
               </div>
@@ -226,11 +226,11 @@
             <div class="col-lg-12 col-md-6">
               <div class="service2-auhtor2-boxarea" data-aos="zoom-out" data-aos-duration="1200">
                 <div class="arrow">
-                  <a href="service1.html"><i class="fa-solid fa-arrow-right"></i></a>
+                  <a href="{{ route('service1') }}"><i class="fa-solid fa-arrow-right"></i></a>
                 </div>
                 <div class="content-area">
                   <h5>Our Vision</h5>
-                  <a href="service1.html">We aspire to create a world where every business leverages technology for growth and success.</a>
+                  <a href="{{ route('service1') }}">We aspire to create a world where every business leverages technology for growth and success.</a>
                   <p>To become a globally recognized technology partner, revolutionizing the digital landscape with cutting-edge yet affordable solutions. We envision a future where businesses, regardless of size, can leverage powerful software and websites to thrive in the digital world.</p>
                 </div>
               </div>
@@ -260,72 +260,72 @@
       <div class="col-lg-12" data-aos="zoom-out" data-aos-duration="1200">
           <div class="cs_case_study_1_list">
             <div class="cs_case_study cs_style_1 cs_hover_active active" data-aos="fade-up" data-aos-duration="800">
-              <a href="case-single.html" class="cs_case_study_thumb cs_bg_filed" data-src="assets/img/all-images/case-img1.png"></a>
+              <a href="{{ route('case-single') }}" class="cs_case_study_thumb cs_bg_filed" data-src="assets/img/all-images/case-img1.png"></a>
               <div class="content-area1">
-                <a href="case-single.html">Website  Design & Development</a>
+                <a href="{{ route('case-single') }}">Website  Design & Development</a>
               </div>
               <div class="content-area">
-                <a href="case-single.html">Website  Design & Development </a>
+                <a href="{{ route('case-single') }}">Website  Design & Development </a>
                 <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
               </div>
             </div>
             <div class="cs_case_study cs_style_1 cs_hover_active" data-aos="fade-up" data-aos-duration="900">
-              <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb2 cs_bg_filed" data-src="assets/img/all-images/case-img2.png"></a>
+              <a href="{{ route('case-single') }}" class="cs_case_study_thumb cs_case_study_thumb2 cs_bg_filed" data-src="assets/img/all-images/case-img2.png"></a>
               <div class="content-area1">
-                <a href="case-single.html">SEO</a>
+                <a href="{{ route('case-single') }}">SEO</a>
               </div>
               <div class="content-area">
-                <a href="case-single.html">SEO</a>
+                <a href="{{ route('case-single') }}">SEO</a>
                 <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
               </div>
             </div>
             <div class="cs_case_study cs_style_1 cs_hover_active" data-aos="fade-up" data-aos-duration="1000">
-              <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb3 cs_bg_filed" data-src="assets/img/all-images/case-img3.png"></a>
+              <a href="{{ route('case-single') }}" class="cs_case_study_thumb cs_case_study_thumb3 cs_bg_filed" data-src="assets/img/all-images/case-img3.png"></a>
               <div class="content-area1">
-                <a href="case-single.html">PPC Advertising</a>
+                <a href="{{ route('case-single') }}">PPC Advertising</a>
               </div>
               <div class="content-area">
-                <a href="case-single.html">PPC Advertising</a>
+                <a href="{{ route('case-single') }}">PPC Advertising</a>
                 <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
               </div>
             </div>
             <div class="cs_case_study cs_style_1 cs_hover_active" data-aos="fade-up" data-aos-duration="1100">
-              <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb4 cs_bg_filed" data-src="assets/img/all-images/case-img4.png"></a>
+              <a href="{{ route('case-single') }}" class="cs_case_study_thumb cs_case_study_thumb4 cs_bg_filed" data-src="assets/img/all-images/case-img4.png"></a>
               <div class="content-area1">
-                <a href="case-single.html">Social Media Marketing</a>
+                <a href="{{ route('case-single') }}">Social Media Marketing</a>
               </div>
               <div class="content-area">
-                <a href="case-single.html">Social Media Marketing</a>
+                <a href="{{ route('case-single') }}">Social Media Marketing</a>
                 <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
               </div>
             </div>
             <div class="cs_case_study cs_style_1 cs_hover_active" data-aos="fade-up" data-aos-duration="1200">
-              <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb5 cs_bg_filed" data-src="assets/img/all-images/case-img5.png"></a>
+              <a href="{{ route('case-single') }}" class="cs_case_study_thumb cs_case_study_thumb5 cs_bg_filed" data-src="assets/img/all-images/case-img5.png"></a>
               <div class="content-area1">
-                <a href="case-single.html">Content Marketing</a>
+                <a href="{{ route('case-single') }}">Content Marketing</a>
               </div>
               <div class="content-area">
-                <a href="case-single.html">Content Marketing</a>
+                <a href="{{ route('case-single') }}">Content Marketing</a>
                 <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
               </div>
             </div>
             <div class="cs_case_study cs_style_1 cs_hover_active" data-aos="fade-up" data-aos-duration="1300">
-              <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb6 cs_bg_filed" data-src="assets/img/all-images/case-img6.png"></a>
+              <a href="{{ route('case-single') }}" class="cs_case_study_thumb cs_case_study_thumb6 cs_bg_filed" data-src="assets/img/all-images/case-img6.png"></a>
               <div class="content-area1">
-                <a href="case-single.html">Email Marketing</a>
+                <a href="{{ route('case-single') }}">Email Marketing</a>
               </div>
               <div class="content-area">
-                <a href="case-single.html">Email Marketing</a>
+                <a href="{{ route('case-single') }}">Email Marketing</a>
                 <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
               </div>
             </div>
             <div class="cs_case_study cs_style_1 cs_hover_active " style="margin: 0 !important;" data-aos="fade-up" data-aos-duration="1400">
-              <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb7 cs_bg_filed" data-src="assets/img/all-images/case-img7.png"></a>
+              <a href="{{ route('case-single') }}" class="cs_case_study_thumb cs_case_study_thumb7 cs_bg_filed" data-src="assets/img/all-images/case-img7.png"></a>
               <div class="content-area1">
-                <a href="case-single.html">Analytics & Reporting</a>
+                <a href="{{ route('case-single') }}">Analytics & Reporting</a>
               </div>
               <div class="content-area">
-                <a href="case-single.html">Analytics & Reporting</a>
+                <a href="{{ route('case-single') }}">Analytics & Reporting</a>
                 <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
               </div>
             </div>
@@ -338,7 +338,7 @@
 
 
 <!--===== TESTIMONIAL AREA STARTS =======-->
-<div class="testimonial1-section-area sp6">
+{{-- <div class="testimonial1-section-area sp6">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 m-auto">
@@ -446,7 +446,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> --}}
 <!--===== TESTIMONIAL AREA ENDS =======-->
 
 <!--===== BLOG AREA STARTS =======-->
@@ -475,9 +475,9 @@
                 <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
               </ul>
             </div>
-            <a href="blog-single.html">10 Essential SEO Tips to Boost Your Website's Ranking</a>
+            <a href="{{ route('blog-single') }}">10 Essential SEO Tips to Boost Your Website's Ranking</a>
             <p>Are you looking to improve your website's visibility and attract more organic traffic? </p>
-            <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+            <a href="{{ route('blog-single') }}" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
           </div>
         </div>
         <div class="space30 d-lg-none d-block"></div>
@@ -495,9 +495,9 @@
                 <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
               </ul>
             </div>
-            <a href="blog-single.html">The Power of Digital Marketing: Strategies to Maximize Your Reach</a>  
+            <a href="{{ route('blog-single') }}">The Power of Digital Marketing: Strategies to Maximize Your Reach</a>  
             <p>Learn how effective digital marketing strategies can enhance brand visibility, drive engagement</p>
-            <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+            <a href="{{ route('blog-single') }}" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
           </div>
         </div>
         <div class="space30 d-lg-none d-block"></div>
@@ -515,9 +515,9 @@
                 <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
               </ul>
             </div>
-            <a href="blog-single.html">The Importance of Responsive Web Design in the Mobile Age</a>
+            <a href="{{ route('blog-single') }}">The Importance of Responsive Web Design in the Mobile Age</a>
             <p>Where mobile devices dominate internet usage, responsive web design more crucial.</p>
-            <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
+            <a href="{{ route('blog-single') }}" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
           </div>
         </div>
       </div>

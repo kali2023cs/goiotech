@@ -32,7 +32,7 @@
 <div class="preloader">
   <div class="loading-container">
     <div class="loading"></div>
-    <div id="loading-icon"><img src="{{ asset('assets/img/logo/preloader.png') }}" alt=""></div>
+    <div id="loading-icon"><img src="" alt=""></div>
   </div>
 </div>
 <!--===== PRELOADER ENDS =======-->
@@ -55,7 +55,7 @@
           <div class="col-lg-12">
             <div class="header-elements">
               <div class="site-logo">
-                <a href="index.html"><img src="assets/img/logo/webgoiopur.png" alt=""></a>
+                <a href="{{ route('home') }}"><img src="assets/img/logo/webgoiopur.png" alt=""></a>
               </div>
               <div class="main-menu">
                 <ul>
@@ -408,40 +408,40 @@
                   <li><a href="{{ route('about') }}">About</a></li>
                   <li><a href="#">Services <i class="fa-solid fa-angle-down"></i></a>
                     <ul class="dropdown-padding">
-                      <li><a href="service1.html">Service One</a></li>
-                      <li><a href="service2.html">Service Two</a></li>
-                      <li><a href="service3.html">Service Three</a></li>
-                      <li><a href="service4.html">Service Four</a></li>
-                      <li><a href="service5.html">Service Five</a></li>
+                      <li><a href="{{ route('service1') }}">Service One</a></li>
+                      <li><a href="{{route('service2')}}">Service Two</a></li>
+                      <li><a href="{{route('service3')}}">Service Three</a></li>
+                      <li><a href="{{route('service4')}}">Service Four</a></li>
+                      <li><a href="{{route('service5')}}">Service Five</a></li>
                     </ul>
                   </li>
                   <li><a href="#">Blogs <i class="fa-solid fa-angle-down"></i></a>
                   <ul class="dropdown-padding">
-                    <li><a href="blog.html">Blog One</a></li>
-                    <li><a href="blog-left.html">Blog Left</a></li>
-                    <li><a href="blog-right.html">Blog Right</a></li>
-                    <li><a href="blog-single.html">Blog Single</a></li>
+                    <li><a href="{{route('blog')}}">Blog One</a></li>
+                    <li><a href="{{route('blog-left')}}">Blog Left</a></li>
+                    <li><a href="{{route('blog-right')}}">Blog Right</a></li>
+                    <li><a href="{{route('blog-single')}}">Blog Single</a></li>
                   </ul>
                   </li>
                   <li><a href="#">Pages <i class="fa-solid fa-angle-down"></i></a>
                     <ul class="dropdown-padding">
-                      <li><a href="case.html">Case Study</a></li>
-                      <li><a href="case-single.html">Case Study Single</a></li>
-                      <li><a href="team.html">Our Team</a></li>
-                      <li><a href="pricing.html">Pricing Plan</a></li>
-                      <li><a href="testimonials.html">Testimonials</a></li>
-                      <li><a href="faq.html">FAQ</a></li>
-                      <li><a href="404-2.html">404</a></li>
+                      <li><a href="{{route('case')}}">Case Study</a></li>
+                      <li><a href="{{route('case-single')}}">Case Study Single</a></li>
+                      <li><a href="{{route('team')}}">Our Team</a></li>
+                      <li><a href="{{route('pricing')}}">Pricing Plan</a></li>
+                      <li><a href="{{route('testimonials')}}">Testimonials</a></li>
+                      <li><a href="{{route('faq')}}">FAQ</a></li>
+                      <li><a href="{{route('404')}}">404</a></li>
                     </ul>
                   </li>
-                  <li><a href="contact.html">Contact Us</a></li>
+                  <li><a href="{{route('contact')}}">Contact Us</a></li>
                 </ul>
               </div>
               <div class="btn-area">
                 <div class="search-icon header__search header-search-btn">
                   <a href="#"><img src="assets/img/icons/search-icons1.svg" alt=""></a>
                 </div>
-                <a href="contact.html" class="header-btn1">Free Consultation <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                <a href="{{ route('contact') }}" class="header-btn1">Free Consultation <span><i class="fa-solid fa-arrow-right"></i></span></a>
               </div>
 
               <div class="header-search-form-wrapper">
@@ -536,37 +536,37 @@
       <li><a href="about.html">About</a></li>
       <li><a href="404-3.html">Services</a>
         <ul class="sub-menu">
-          <li><a href="service1.html">Service One</a></li>
-          <li><a href="service2.html">Service Two</a></li>
-          <li><a href="service3.html">Service Three</a></li>
-          <li><a href="service4.html">Service Four</a></li>
-          <li><a href="service5.html">Service Five</a></li>
+          <li><a href="{{ route('service1') }}">Service One</a></li>
+          <li><a href="{{route('service2')}}">Service Two</a></li>
+          <li><a href="{{route('service3')}}">Service Three</a></li>
+          <li><a href="{{route('service4')}}">Service Four</a></li>
+          <li><a href="{{route('service5')}}">Service Five</a></li>
         </ul>
       </li>
       <li><a href="#">Blogs</a>
         <ul class="sub-menu">
-          <li><a href="blog.html">Blog One</a></li>
-          <li><a href="blog-left.html">Blog Left</a></li>
-          <li><a href="blog-right.html">Blog Right</a></li>
-          <li><a href="blog-single.html">Blog Single</a></li>
+          <li><a href="{{route('blog')}}">Blog One</a></li>
+          <li><a href="{{route('blog-left')}}">Blog Left</a></li>
+          <li><a href="{{route('blog-right')}}">Blog Right</a></li>
+          <li><a href="{{route('blog-single')}}">Blog Single</a></li>
         </ul>
       </li>
       <li><a href="#">Pages</a>
         <ul class="sub-menu">
-          <li><a href="case.html">Case Study One</a></li>
-          <li><a href="case-single.html">Case Study Single</a></li>
-          <li><a href="team.html">Our Team</a></li>
-          <li><a href="pricing.html">Pricing Plan</a></li>
-          <li><a href="testimonials.html">Testimonials</a></li>
-          <li><a href="faq.html">FAQ</a></li>
-          <li><a href="404-2.html">404</a></li>
+          <li><a href="{{route('case')}}">Case Study One</a></li>
+          <li><a href="{{route('case-single')}}">Case Study Single</a></li>
+          <li><a href="{{route('team')}}">Our Team</a></li>
+          <li><a href="{{route('pricing')}}">Pricing Plan</a></li>
+          <li><a href="{{route('testimonials')}}">Testimonials</a></li>
+          <li><a href="{{route('faq')}}">FAQ</a></li>
+          <li><a href="{{route('404')}}">404</a></li>
         </ul>
       </li>
-      <li><a href="contact.html">Contact Us</a></li>
+      <li><a href="{{route('contact')}}">Contact Us</a></li>
     </ul>
 
     <div class="allmobilesection">
-      <a href="contact.html"  class="header-btn1">Get Started <span><i class="fa-solid fa-arrow-right"></i></span></a>
+      <a href="{{route('contact')}}"  class="header-btn1">Get Started <span><i class="fa-solid fa-arrow-right"></i></span></a>
       <div class="single-footer">
         <h3>Contact Info</h3>
         <div class="footer1-contact-info">

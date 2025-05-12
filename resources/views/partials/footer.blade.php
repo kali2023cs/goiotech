@@ -9,7 +9,7 @@
             <h2 class="text-anime-style-3">Ready To Take Your Business To <br class="d-md-block d-none"> The Next Level</h2>
             <p data-aos="fade-up" data-aos-duration="1000">High-quality websites and software solutions improve performance, enhance user experience, <br class="d-md-block d-none"> and drive business growth.</p>
             <div class="btn-area text-center" data-aos="fade-up" data-aos-duration="1200">
-              <a href="contact.html" class="header-btn1">Free Consultation <span><i class="fa-solid fa-arrow-right"></i></span></a>
+              <a href="{{route('contact')}}" class="header-btn1">Free Consultation <span><i class="fa-solid fa-arrow-right"></i></span></a>
             </div>
           </div>
         </div>
@@ -39,12 +39,12 @@
           <div class="footer-logo-area1">
             <h3>About Link</h3>
             <ul>
-              <li><a href="blog.html">Our Blog</a></li>
-              <li><a href="about.html">About Us</a></li>
-              <li><a href="service1.html">Services</a></li>
-              <li><a href="case.html">Marketing</a></li>
-              <li><a href="testimonials.html">Testimonials</a></li>
-              <li><a href="contact.html">Contact Us</a></li>
+              <li><a href="{{route('blog')}}">Our Blog</a></li>
+              <li><a href="{{route('about')}}">About Us</a></li>
+              <li><a href="{{route('service5')}}">Services</a></li>
+              <li><a href="{{route('case')}}">Marketing</a></li>
+              <li><a href="{{route('testimonials')}}">Testimonials</a></li>
+              <li><a href="{{route('contact')}}">Contact Us</a></li>
             </ul>
           </div>
         </div>
