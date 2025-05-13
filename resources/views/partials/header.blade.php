@@ -9,7 +9,7 @@
      <title>GOIO TECH</title>
 
      <!--=====FAB ICON=======-->
-     <link rel="shortcut icon" href="{{ asset('assets/img/logo/fav-webgoiopur.png') }}" type="image/x-icon">
+     <link rel="shortcut icon" href="{{ asset('assets/img/logo/webgoiopur.png') }}" type="image/x-icon">
 
     <!--===== CSS LINK =======-->
     <link rel="stylesheet" href="{{ asset('assets/css/plugins/bootstrap.min.css') }}">
