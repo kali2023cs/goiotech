@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-lg-5 m-auto">
                 <div class="about-inner-header heading9 text-center">
-                    <h1>Our Best Services</h1>
+                    <h1>Our Premium Services</h1>
                     <a href="index.html">Home <i class="fa-solid fa-angle-right"></i> <span>Services</span></a>
                 </div>
             </div>
@@ -27,41 +27,41 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="service-boxarea">
-                        <a href="service1.html">Search Engine Optimization ( SEO)</a>
+                        <a href="service1.html">Website Design & Development</a>
                         <div class="space40"></div>
                         <img src="assets/img/icons/service-icon1.svg" alt="">
                         <div class="space40"></div>
-                        <p>Enhance your online visibility & drive organic traffic with our advanced SEO techniques. We optimize your website to rank higher.</p>
+                        <p>We create stunning, responsive websites that deliver exceptional user experiences and drive business growth through custom web solutions.</p>
                       </div>
                 </div>
            
             <div class="col-lg-3 col-md-6">
                 <div class="service-boxarea">
-                    <a href="service1.html">Pay-Per-Click (PPC) Advertising</a>
+                    <a href="service1.html">Search Engine Optimization</a>
                     <div class="space40"></div>
                     <img src="assets/img/icons/service-icon2.svg" alt="">
                     <div class="space40"></div>
-                    <p>Reach your audience instantly and drive qualified leads with targeted PPC campaigns. Our experts craft compelling ad copy and optimize.</p>
+                    <p>Boost your online visibility and organic traffic with our comprehensive SEO strategies tailored to your business goals and target audience.</p>
                   </div>
             </div>
   
             <div class="col-lg-3 col-md-6">
                 <div class="service-boxarea">
-                    <a href="service1.html">Social Media Marketing</a>
-                    <div class="space66"></div>
+                    <a href="service1.html">Hotel Management Systems</a>
+                    <div class="space40"></div>
                     <img src="assets/img/icons/service-icon3.svg" alt="">
                     <div class="space40"></div>
-                    <p>Build a strong brand presence and engage with your audience on social media platforms. We create strategic social media campaigns </p>
+                    <p>Streamline your hospitality operations with our custom hotel management software for reservations, bookings, and guest services.</p>
                   </div>
             </div>
   
             <div class="col-lg-3 col-md-6">
                 <div class="service-boxarea">
-                    <a href="service1.html">Website Design and Development</a>
+                    <a href="service1.html">Mobile App Development</a>
                     <div class="space40"></div>
                     <img src="assets/img/icons/service-icon4.svg" alt="">
                     <div class="space40"></div>
-                    <p>Make a lasting impression with a professionally designed and user-friendly website. Our web design and development services ensure.</p>
+                    <p>Build powerful iOS and Android applications that engage users and solve real business challenges with our expert mobile development team.</p>
                   </div>
             </div>
 
@@ -71,37 +71,37 @@
                     <div class="space40"></div>
                     <img src="assets/img/icons/service-icon15.svg" alt="">
                     <div class="space40"></div>
-                    <p>We craft compelling content that educates, entertains, and inspires your audience, driving engagement and building brand loyalty. </p>
+                    <p>Attract and retain customers with compelling content strategies that establish your brand as an industry authority and drive conversions.</p>
                   </div>
             </div>
        
         <div class="col-lg-3 col-md-6">
             <div class="service-boxarea">
-                <a href="service1.html">Email Marketing</a>
+                <a href="service1.html">E-Commerce Solutions</a>
                 <div class="space40"></div>
                 <img src="assets/img/icons/service-icon16.svg" alt="">
                 <div class="space40"></div>
-                <p>We design and implement effective email marketing campaigns to nurture leads, promote products or services, and drive conversions.</p>
+                <p>Launch and maintain high-performing online stores with secure payment gateways, inventory management, and conversion-optimized designs.</p>
               </div>
         </div>
 
         <div class="col-lg-3 col-md-6">
             <div class="service-boxarea">
-                <a href="service1.html">Analytics And Reporting</a>
+                <a href="service1.html">Digital Marketing</a>
                 <div class="space40"></div>
                 <img src="assets/img/icons/service-icon17.svg" alt="">
                 <div class="space40"></div>
-                <p>We track and measure the performance of your digital marketing campaigns using advanced analytics tools. </p>
+                <p>Comprehensive digital strategies including social media, PPC, email marketing, and analytics to grow your online presence and revenue.</p>
               </div>
         </div>
 
         <div class="col-lg-3 col-md-6">
             <div class="service-boxarea">
-                <a href="service1.html">One Page SEO Optimization</a>
+                <a href="service1.html">Custom Software Solutions</a>
                 <div class="space40"></div>
                 <img src="assets/img/icons/service-icon18.svg" alt="">
                 <div class="space40"></div>
-                <p>We optimize key on-page elements of your website, including title tags, meta descriptions, headers, and content with your target keywords.</p>
+                <p>Tailored business applications designed to automate processes, improve efficiency, and give you a competitive edge in your industry.</p>
               </div>
         </div>
           </div>
@@ -119,16 +119,16 @@
             <div class="col-lg-6">
                 <div class="works-header-area heading2">
                     <h5>Why Choose Us</h5>
-                    <h2>Experience the Advantage Why We're the Right Choice</h2>
-                    <p>At SEOC we understand that you have many options when it comes to digital marketing services. So why should you choose us? Here are a few reasons</p>
+                    <h2>Your Trusted Technology Partner</h2>
+                    <p>We combine technical expertise with business acumen to deliver solutions that drive real results. Here's what sets us apart:</p>
                     <div class="space32"></div>
                     <div class="works-content-box">
                         <div class="icons">
                             <img src="assets/img/icons/works-icons7.svg" alt="">
                         </div>
                         <div class="content">
-                            <a href="case-single.html">Proven Result</a>
-                            <p>We have a track record of delivering tangible results for our clients. From increasing website traffic and improving search. </p>
+                            <a href="case-single.html">Full-Service Expertise</a>
+                            <p>From initial design to ongoing maintenance, we handle all aspects of web and software development under one roof for seamless project execution.</p>
                         </div>
                     </div>
                     <div class="space20"></div>
@@ -137,8 +137,8 @@
                             <img src="assets/img/icons/works-icons8.svg" alt="">
                         </div>
                         <div class="content">
-                            <a href="case-single.html">Customized Solutions</a>
-                            <p>We believe that one size does not fit all when it comes to digital marketing. That's why we take the time to understand your SEO. </p>
+                            <a href="case-single.html">Industry-Specific Solutions</a>
+                            <p>We develop specialized solutions for industries like hospitality, retail, and services with features tailored to your unique business requirements.</p>
                         </div>
                     </div>
                     <div class="space20"></div>
@@ -147,8 +147,8 @@
                             <img src="assets/img/icons/works-icons9.svg" alt="">
                         </div>
                         <div class="content">
-                            <a href="case-single.html">Dedicated Support</a>
-                            <p>Your success is our top priority. That's why provide dedicated support and guidance every step of the way to running seo.</p>
+                            <a href="case-single.html">Ongoing Support</a>
+                            <p>Our relationship doesn't end at launch. We provide continuous maintenance, updates, and optimization to keep your digital assets performing at peak levels.</p>
                         </div>
                     </div>
                 </div>
@@ -187,7 +187,7 @@
           <div class="col-lg-3 m-auto">
               <div class="skills-header text-center heading2">
                   <h5>Skills</h5>
-                  <h2>Our Skills</h2>
+                  <h2>Our Core Competencies</h2>
               </div>
           </div>
       </div>
@@ -197,48 +197,48 @@
             <div class="col-lg-3 col-md-6">
               <div class="progresbar">
                 <div class="progressbar">
-                   <div class="circle" data-percent="82">
+                   <div class="circle" data-percent="95">
                     <canvas></canvas>
-                       <div>82%</div>
+                       <div>95%</div>
                   </div>
                 </div>
-                <p>S M M</p>
+                <p>Web Development</p>
               </div>
             </div>
 
             <div class="col-lg-3 col-md-6">
               <div class="progresbar">
                 <div class="progressbar">
-                  <div class="circle two" data-percent="49">
+                  <div class="circle two" data-percent="90">
                     <canvas></canvas>
-                      <div>49%</div>
+                      <div>90%</div>
                  </div>
                </div>
-               <p>P P C</p>
+               <p>Mobile Development</p>
               </div>
             </div>
 
             <div class="col-lg-3 col-md-6">
               <div class="progresbar">
                 <div class="progressbar">
-                  <div class="circle three" data-percent="99">
+                  <div class="circle three" data-percent="92">
                     <canvas></canvas>
-                     <div>99%</div>
+                     <div>92%</div>
                   </div>
                  </div>
-                 <p>SEO</p>
+                 <p>SEO Optimization</p>
               </div>
             </div>
 
             <div class="col-lg-3 col-md-6">
               <div class="progresbar">
                 <div class="progressbar">
-                  <div class="circle four" data-percent="95">
+                  <div class="circle four" data-percent="88">
                     <canvas></canvas>
-                     <div>95%</div>
+                     <div>88%</div>
                   </div>
                  </div>
-                 <p>Digital Marketing</p>
+                 <p>Custom Software</p>
               </div>
             </div>
         </div>
@@ -255,7 +255,7 @@
         <div class="col-lg-6 m-auto">
           <div class="team2-header-area text-center heading2">
             <h5>Our Team</h5>
-            <h2>Meet With Our Expert Team</h2>
+            <h2>Meet Our Technology Experts</h2>
           </div>
         </div>
       </div>
@@ -273,7 +273,7 @@
             </ul>
             <div class="content">
               <a href="team.html">John Doe</a>
-              <p>CEO & Founder</p>
+              <p>Lead Developer</p>
             </div>
           </div>
         </div>
@@ -291,7 +291,7 @@
             </ul>
             <div class="content">
               <a href="team.html">Jane Smith</a>
-              <p>Digital Marketing Officer</p>
+              <p>SEO Specialist</p>
             </div>
           </div>
         </div>
@@ -309,7 +309,7 @@
             </ul>
             <div class="content">
               <a href="team.html">Sarah Thompson </a>
-              <p>Web Designer</p>
+              <p>UI/UX Designer</p>
             </div>
           </div>
         </div>
@@ -327,7 +327,7 @@
             </ul>
             <div class="content">
               <a href="team.html">David Garcia</a>
-              <p>Content Writer</p>
+              <p>Digital Marketing Strategist</p>
             </div>
           </div>
         </div>
