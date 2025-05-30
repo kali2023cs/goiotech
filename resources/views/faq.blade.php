@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-lg-8 m-auto">
                 <div class="about-inner-header heading9 text-center">
-                    <h1>Frequently Asked Question</h1>
+                    <h1>Frequently Asked Questions</h1>
                     <a href="index.html">Home <i class="fa-solid fa-angle-right"></i> <span>FAQ'S</span></a>
                 </div>
             </div>
@@ -27,44 +27,44 @@
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                                How does SEO differ from PPC?
+                                What services does Goio Tech offer?
                             </button>
                           </h2>
                           <div id="flush-collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body body2">Common mistakes include keyword stuffing, neglecting mobile optimization, ignoring technical SEO, using duplicate <br class="d-lg-block d-none"> content, not optimizing for local search, and failing to monitor and analyze SEO performance.</div>
+                            <div class="accordion-body body2">Goio Tech specializes in custom web development, mobile app creation, eCommerce solutions, software development, and comprehensive SEO services to boost your online presence.</div>
                           </div>
                         </div>
                         <div class="space24"></div>
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                                What is local SEO and who needs it?
+                                How long does a typical web development project take?
                             </button>
                           </h2>
                           <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                          <div class="accordion-body body2">Common mistakes include keyword stuffing, neglecting mobile optimization, ignoring technical SEO, using duplicate <br class="d-lg-block d-none"> content, not optimizing for local search, and failing to monitor and analyze SEO performance.</div>
+                          <div class="accordion-body body2">Project timelines vary based on complexity, but most standard websites take 4-8 weeks. We provide detailed timelines after understanding your specific requirements.</div>
                           </div>
                         </div>
                         <div class="space24"></div>
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                                How does voice search impact SEO?
+                                What platforms do you use for eCommerce development?
                             </button>
                           </h2>
                           <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                          <div class="accordion-body body2">Common mistakes include keyword stuffing, neglecting mobile optimization, ignoring technical SEO, using duplicate <br class="d-lg-block d-none"> content, not optimizing for local search, and failing to monitor and analyze SEO performance.</div>
+                          <div class="accordion-body body2">We work with Shopify, WooCommerce, Magento, and custom solutions. Our team recommends the best platform based on your business size, products, and growth plans.</div>
                           </div>
                         </div>
                         <div class="space24"></div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                                What is SEO and why is it important?
+                                Do you offer ongoing maintenance after development?
                               </button>
                             </h2>
                             <div id="flush-collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                              <div class="accordion-body body2">Common mistakes include keyword stuffing, neglecting mobile optimization, ignoring technical SEO, using duplicate <br class="d-lg-block d-none"> content, not optimizing for local search, and failing to monitor and analyze SEO performance.</div>
+                              <div class="accordion-body body2">Yes, we provide comprehensive maintenance packages including security updates, performance optimization, content updates, and technical support to keep your digital assets running smoothly.</div>
                             </div>
                           </div>
 
@@ -72,11 +72,11 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
-                                What are the key components of a successful SEO strategy?
+                                What's your approach to mobile app development?
                               </button>
                             </h2>
                             <div id="flush-collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                              <div class="accordion-body body2">Common mistakes include keyword stuffing, neglecting mobile optimization, ignoring technical SEO, using duplicate <br class="d-lg-block d-none"> content, not optimizing for local search, and failing to monitor and analyze SEO performance.</div>
+                              <div class="accordion-body body2">We focus on native (iOS/Android) and cross-platform solutions using Flutter/React Native. Our process includes UX research, prototyping, development, rigorous testing, and launch support.</div>
                             </div>
                           </div>
 
@@ -84,11 +84,11 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
-                                How can I measure the success of my digital marketing efforts?
+                                How do you ensure software security?
                               </button>
                             </h2>
                             <div id="flush-collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                              <div class="accordion-body body2">Common mistakes include keyword stuffing, neglecting mobile optimization, ignoring technical SEO, using duplicate <br class="d-lg-block d-none"> content, not optimizing for local search, and failing to monitor and analyze SEO performance.</div>
+                              <div class="accordion-body body2">We implement security best practices including code audits, penetration testing, data encryption, regular updates, and compliance with industry standards like OWASP and GDPR.</div>
                             </div>
                           </div>
 
@@ -96,11 +96,11 @@
                           <div class="accordion-item">
                               <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseSeven">
-                                 What are some common SEO mistakes to avoid?
+                                 What makes Goio Tech different from other agencies?
                                 </button>
                               </h2>
                               <div id="flush-collapseSeven" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                <div class="accordion-body body2">Common mistakes include keyword stuffing, neglecting mobile optimization, ignoring technical SEO, using duplicate <br class="d-lg-block d-none"> content, not optimizing for local search, and failing to monitor and analyze SEO performance.</div>
+                                <div class="accordion-body body2">Our combination of technical expertise, transparent processes, client-focused approach, and post-launch support ensures successful digital solutions that grow with your business.</div>
                               </div>
                             </div>
                       </div>
@@ -116,7 +116,7 @@
             <div class="col-lg-8 m-auto">
                 <div class="heading2 text-center">
                     <h5>Contact Us Now</h5>
-                    <h2>Not Found Your Answer? Just Ask Us!</h2>
+                    <h2>Have More Questions? Get In Touch!</h2>
                 </div>
                 <div class="space60 d-lg-block d-none"></div>
                 <div class="space30 d-lg-none d-md-block"></div>
@@ -175,7 +175,7 @@
             <div class="col-lg-5 m-auto">
                 <div class="testimonia4-header text-center heading2">
                     <h5>Testimonials</h5>
-                    <h2>Clients Feedback</h2>
+                    <h2>Client Success Stories</h2>
                 </div>
             </div>
         </div>
@@ -184,7 +184,7 @@
                 <div class="testimonial4-slider-area faq owl-carousel">
                     <div class="testimonial-boxarea">
                         <img src="assets/img/icons/quito4.svg" alt="" class="quito">
-                        <p>Working with SEOC has been a game-changer for our business. Their strategic approach to SEO  digital marketing has significantly increased our online visibility and lead generation.”</p>
+                        <p>"Goio Tech transformed our outdated website into a modern, high-performing platform. Their web development team delivered beyond our expectations with exceptional attention to detail."</p>
                         <div class="space48"></div>
                         <div class="auhtor-logo">
                             <div class="text">
@@ -205,7 +205,7 @@
 
                     <div class="testimonial-boxarea">
                          <img src="assets/img/icons/quito4.svg" alt="" class="quito">
-                        <p>“We've been partnering with SEOC for over a year now, and the results speak for themselves. Their comprehensive digital marketing solutions have helped us achieve measurable growth."</p>
+                        <p>"Our mobile app developed by Goio Tech has doubled our customer engagement. Their development process was transparent and they consistently met milestones ahead of schedule."</p>
                         <div class="space48"></div>
                         <div class="auhtor-logo">
                             <div class="text">
@@ -226,7 +226,7 @@
 
                     <div class="testimonial-boxarea">
                          <img src="assets/img/icons/quito4.svg" alt="" class="quito">
-                        <p>"As a startup, we needed a digital marketing partner that could understand our unique needs and deliver cost-effective solutions. SEOC has been that partner for us.”</p>
+                        <p>"The eCommerce solution Goio Tech built increased our online sales by 180% in three months. Their understanding of conversion optimization and user experience is unmatched."</p>
                         <div class="space48"></div>
                         <div class="auhtor-logo">
                             <div class="text">
@@ -247,11 +247,11 @@
 
                     <div class="testimonial-boxarea">
                          <img src="assets/img/icons/quito4.svg" alt="" class="quito">
-                        <p>Working with SEOC has been a game-changer for our business. Their strategic approach to SEO  digital marketing has significantly increased our online visibility and lead generation.”</p>
+                        <p>"Goio Tech's custom software solution automated our key business processes, saving us 20+ hours weekly. Their team truly understands how technology can solve real business challenges."</p>
                         <div class="space48"></div>
                         <div class="auhtor-logo">
                             <div class="text">
-                                <a href="team.html">Sarah L.</a>
+                                <a href="team.html">Michael T.</a>
                                 <ul>
                                     <li><i class="fa-solid fa-star"></i></li>
                                     <li><i class="fa-solid fa-star"></i></li>
@@ -268,32 +268,11 @@
 
                     <div class="testimonial-boxarea">
                          <img src="assets/img/icons/quito4.svg" alt="" class="quito">
-                        <p>“We've been partnering with SEOC for over a year now, and the results speak for themselves. Their comprehensive digital marketing solutions have helped us achieve measurable growth."</p>
+                        <p>"After Goio Tech optimized our website for SEO, we went from page 4 to top 3 rankings for all our target keywords. Their strategic approach delivers measurable results."</p>
                         <div class="space48"></div>
                         <div class="auhtor-logo">
                             <div class="text">
-                                <a href="team.html">David M.</a>
-                                <ul>
-                                    <li><i class="fa-solid fa-star"></i></li>
-                                    <li><i class="fa-solid fa-star"></i></li>
-                                    <li><i class="fa-solid fa-star"></i></li>
-                                    <li><i class="fa-solid fa-star"></i></li>
-                                    <li><i class="fa-solid fa-star"></i></li>
-                                </ul>
-                            </div>
-                            <div class="logo">
-                                <img src="assets/img/icons/google1.svg" alt="">
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="testimonial-boxarea">
-                         <img src="assets/img/icons/quito4.svg" alt="" class="quito">
-                        <p>"As a startup, we needed a digital marketing partner that could understand our unique needs and deliver cost-effective solutions. SEOC has been that partner for us.”</p>
-                        <div class="space48"></div>
-                        <div class="auhtor-logo">
-                            <div class="text">
-                                <a href="team.html">Emily R.</a>
+                                <a href="team.html">Jessica K.</a>
                                 <ul>
                                     <li><i class="fa-solid fa-star"></i></li>
                                     <li><i class="fa-solid fa-star"></i></li>
@@ -320,8 +299,8 @@
       <div class="row">
         <div class="col-lg-12 m-auto">
           <div class="blog-hedaer-area heading2 text-center">
-            <h5>Our Blog</h5>
-            <h2>Our Latest Blog & News</h2>
+            <h5>Our Insights</h5>
+            <h2>Latest Tech News & Updates</h2>
           </div>
         </div>
       </div>
@@ -334,12 +313,12 @@
             <div class="content-area">
               <div class="tags-area">
                 <ul>
-                  <li><a href="#"><img src="assets/img/icons/contact1.svg" alt="">Ben Stokes</a></li>
+                  <li><a href="#"><img src="assets/img/icons/contact1.svg" alt="">Goio Team</a></li>
                   <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
                 </ul>
               </div>
-              <a href="blog-single.html">10 Essential SEO Tips to Boost Your Website's Ranking</a>
-              <p>Are you looking to improve your website's visibility and attract more organic traffic? </p>
+              <a href="blog-single.html">Top Web Development Trends to Watch in 2023</a>
+              <p>Discover the emerging technologies and approaches that are shaping modern web development this year.</p>
               <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
@@ -354,12 +333,12 @@
             <div class="content-area">
               <div class="tags-area">
                 <ul>
-                  <li><a href="#"><img src="assets/img/icons/contact1.svg" alt="">Ben Stokes</a></li>
-                          <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
+                  <li><a href="#"><img src="assets/img/icons/contact1.svg" alt="">Goio Team</a></li>
+                  <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
                 </ul>
               </div>
-              <a href="blog-single.html">The Power of PPC Advertising: How to Maximize Your ROI</a>
-              <p>Unlock the full potential of your digital marketing strategy with the power of PPC.</p>
+              <a href="blog-single.html">Building Scalable Mobile Apps: Best Practices</a>
+              <p>Learn how to architect mobile applications that can grow seamlessly with your user base and feature set.</p>
               <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
@@ -374,12 +353,12 @@
             <div class="content-area">
               <div class="tags-area">
                 <ul>
-                  <li><a href="#"><img src="assets/img/icons/contact1.svg" alt="">Ben Stokes</a></li>
-                          <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
+                  <li><a href="#"><img src="assets/img/icons/contact1.svg" alt="">Goio Team</a></li>
+                  <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
                 </ul>
               </div>
-              <a href="blog-single.html">The Importance of Responsive Web Design in the Mobile Age</a>
-              <p>Where mobile devices dominate internet usage, responsive web design more crucial.</p>
+              <a href="blog-single.html">eCommerce Conversion Optimization Strategies</a>
+              <p>Proven techniques to turn more visitors into customers on your online store platform.</p>
               <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>

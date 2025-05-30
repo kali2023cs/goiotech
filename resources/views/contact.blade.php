@@ -24,8 +24,8 @@
             <div class="col-lg-6">
                 <div class="heading2 contact-header">
                    <h5>Contact Us</h5>
-                   <h2>Get in Touch with SEOC We Value Your Connection</h2>
-                   <p>Our dedicated team is committed to providing prompt and effective support to ensure your needs are met. We believe in open communication and are always ready to listen. Reach out to us via phone, email, or live chat, or visit our office during business hours.</p>
+                   <h2>Connect with Goio Tech - Your Innovation Partner</h2>
+                   <p>At Goio Tech, we're passionate about building lasting relationships with our clients. Our Chennai-based team is ready to assist you with cutting-edge technology solutions and exceptional service. Whether you have questions about our services or want to discuss your next project, we're just a message or call away.</p>
                    <div class="space32"></div>
                    <div class="number-address-area">
                     <div class="phone-number">
@@ -34,7 +34,7 @@
                         </div>
                         <div class="content">
                             <p>Phone Number</p>
-                            <a href="tel:123-456-7890">123-456-7890</a>
+                            <a href="tel:+914440203344">+91 44 4020 3344</a>
                         </div>
                     </div>
 
@@ -44,7 +44,7 @@
                         </div>
                         <div class="content">
                             <p>Email Address</p>
-                            <a href="mailto:Infoseoc@gmail.com">Infoseoc@gmail.com</a>
+                            <a href="mailto:info@goiotech.com">info@goiotech.com</a>
                         </div>
                     </div>
                    </div>
@@ -55,12 +55,12 @@
                             <img src="assets/img/icons/location3.svg" alt="">
                         </div>
                         <div class="content">
-                            <a href="#">8708 Technology Forest Pl Suite <br class="d-lg-block d-none"> 125 -G, The Woodlands, TX 773</a>
+                            <a href="#">Tidel Park, 4th Floor, No.4 <br class="d-lg-block d-none"> Rajiv Gandhi Salai, Taramani, Chennai - 600113</a>
                         </div>
                     </div>
 
                     <div class="phone-number">
-                        <a href="https://www.google.com/maps/@24.0098057,88.9892437,15z?entry=ttu" class="map" target="_blank">View Our Map</a>
+                        <a href="https://goo.gl/maps/3J5QZ8X9X5J2" class="map" target="_blank">View Our Map</a>
                     </div>
                    </div>
                 </div>
@@ -115,7 +115,7 @@
         <div class="col-lg-4 m-auto">
           <div class="location-header text-center heading2">
             <h5>Location</h5>
-            <h2>Our Location</h2>
+            <h2>Our Offices</h2>
           </div>
         </div>
       </div>
@@ -128,13 +128,13 @@
             <img src="assets/img/icons/location3.svg" alt="">
           </div>
           <div class="space32"></div>
-            <a href="#">San Francisco <br class="d-lg-block d-none">
-            1446 Vorwuw Parkway</a>
+            <a href="#">Chennai HQ <br class="d-lg-block d-none">
+            Tidel Park, 4th Floor, Taramani</a>
             <div class="space24"></div>
             <p>Phone Number</p>
-            <a href="tel:123-456-7890">123-456-7890</a>
+            <a href="tel:+914440203344">+91 44 4020 3344</a>
             <div class="space32"></div>
-            <a href="https://www.google.com/maps/@24.0098057,88.9892437,15z?entry=ttu" class="map" target="_blank">View Our Map</a>
+            <a href="https://goo.gl/maps/3J5QZ8X9X5J2" class="map" target="_blank">View Our Map</a>
           </div>
       </div>
 
@@ -144,13 +144,13 @@
             <img src="assets/img/icons/location3.svg" alt="">
           </div>
           <div class="space32"></div>
-            <a href="#">Chicago <br class="d-lg-block d-none">
-              1849 Usavom View</a>
+            <a href="#">Bangalore <br class="d-lg-block d-none">
+              Prestige Tech Park, Marathahalli</a>
             <div class="space24"></div>
             <p>Phone Number</p>
-            <a href="tel:123-456-7890">123-456-7890</a>
+            <a href="tel:+918023456789">+91 80 2345 6789</a>
             <div class="space32"></div>
-            <a href="https://www.google.com/maps/@24.0098057,88.9892437,15z?entry=ttu" class="map" target="_blank">View Our Map</a>
+            <a href="https://goo.gl/maps/5J7K8M9N2L1P" class="map" target="_blank">View Our Map</a>
           </div>
       </div>
 
@@ -160,13 +160,13 @@
             <img src="assets/img/icons/location3.svg" alt="">
           </div>
           <div class="space32"></div>
-            <a href="#">Boston <br class="d-lg-block d-none">
-              1660 Dodgig Place</a>
+            <a href="#">Hyderabad <br class="d-lg-block d-none">
+              HITEC City, 2nd Floor, Madhapur</a>
             <div class="space24"></div>
             <p>Phone Number</p>
-            <a href="tel:123-456-7890">123-456-7890</a>
+            <a href="tel:+914023456789">+91 40 2345 6789</a>
             <div class="space32"></div>
-            <a href="https://www.google.com/maps/@24.0098057,88.9892437,15z?entry=ttu" class="map" target="_blank">View Our Map</a>
+            <a href="https://goo.gl/maps/9K8J7M6N5L4P" class="map" target="_blank">View Our Map</a>
           </div>
       </div>
      </div>
@@ -174,7 +174,7 @@
 </div>
 <div class="mapouter">
   <div class="gmap_canvas">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4506257.120552435!2d88.67021924228865!3d21.954385721237916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1704088968016!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.269037744963!2d80.24173831482293!3d13.04766359081457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526660b9a6a7a7%3A0x1e2c4a1f7e3c1b1d!2sTidel%20Park!5e0!3m2!1sen!2sin!4v1621234567890!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 </div> 
 <!--===== CONTACT AREA ENDS =======-->

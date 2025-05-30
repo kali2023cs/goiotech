@@ -38,6 +38,10 @@ class WelcomeController extends Controller
     {
         return view('service5');
     }
+    public function service6()
+    {
+        return view('service6');
+    }
     public function casesingle()
     {
         return view('case-single');

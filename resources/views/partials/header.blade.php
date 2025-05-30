@@ -413,6 +413,7 @@
                       <li><a href="{{route('service3')}}">Service Three</a></li>
                       <li><a href="{{route('service4')}}">Service Four</a></li>
                       <li><a href="{{route('service5')}}">Service Five</a></li>
+                      <li><a href="{{route('service6')}}">Service Six</a></li>
                     </ul>
                   </li>
                   <li><a href="#">Blogs <i class="fa-solid fa-angle-down"></i></a>
@@ -499,6 +500,7 @@
           <li><a href="{{route('service3')}}">Service Three</a></li>
           <li><a href="{{route('service4')}}">Service Four</a></li>
           <li><a href="{{route('service5')}}">Service Five</a></li>
+          <li><a href="{{route('service6')}}">Service Six</a></li>
         </ul>
       </li>
       <li><a href="#">Blogs</a>

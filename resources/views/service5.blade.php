@@ -9,8 +9,8 @@
         <div class="row">
             <div class="col-lg-8 m-auto">
                 <div class="about-inner-header heading9 text-center">
-                    <h1>Social Media Marketing</h1>
-                    <a href="index.html">Home <i class="fa-solid fa-angle-right"></i> Services <i class="fa-solid fa-angle-right"></i> <span>Social Media Marketing</span></a>
+                    <h1>Mobile App Development</h1>
+                    <a href="index.html">Home <i class="fa-solid fa-angle-right"></i> Services <i class="fa-solid fa-angle-right"></i> <span>Mobile App Development</span></a>
                 </div>
             </div>
         </div>
@@ -20,23 +20,23 @@
 
 <!--===== ABOUT AREA STARTS =======-->
 <div class="service-inner2-section-area sp8">
-    <img src="assets/img/elements/instagram1.png" alt="" class="instagram1">
-    <img src="assets/img/elements/linkedin1.png" alt="" class="linkedin1">
+    <img src="assets/img/elements/app-dev1.png" alt="" class="app-dev1">
+    <img src="assets/img/elements/app-dev2.png" alt="" class="app-dev2">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="service-images">
-                    <img src="assets/img/elements/facebook1.png" alt="" class="facebook1">
-                   <img src="assets/img/elements/twitter1.png" alt="" class="twitter1">
+                    <img src="assets/img/elements/app-dev3.png" alt="" class="app-dev3">
+                    <img src="assets/img/elements/app-dev4.png" alt="" class="app-dev4">
                     <img src="assets/img/all-images/service-img11.png" alt="">
                     <img src="assets/img/bg/inner-bg1.png" alt="" class="inner-bg1">
                 </div>
             </div>
             <div class="col-lg-5">
                 <div class="service-content heading2">
-                    <h5>Social Media Marketing</h5>
-                    <h2>Social Media Marketing</h2>
-                    <p>Welcome to SEOC’s Social Media Marketing Services. Our team specializes in crafting and executing social media strategies that elevate your brand, engage your audience, and drive measurable results. Harness the power of social media to grow your business and connect with customers on a deeper level.</p>
+                    <h5>Mobile App Development</h5>
+                    <h2>Custom Mobile Applications</h2>
+                    <p>Welcome to SEOC's Mobile App Development Services. Our team specializes in creating high-performance, user-friendly mobile applications for iOS and Android platforms. We transform your ideas into intuitive, feature-rich apps that engage users and drive business growth through cutting-edge mobile technology.</p>
                     <div class="space32"></div>
                     <div class="btn-area1">
                         <a href="service1.html" class="header-btn1">View Our Services <span><i class="fa-solid fa-arrow-right"></i></span></a>
@@ -81,98 +81,6 @@
   </div>
 <!--===== TESTIMONIAL AREA ENDS =======-->
 
-<!--===== CASE AREA STARTS =======-->
-<div class="case1-section-area sp1">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 m-auto">
-          <div class="case-header-area heading2 text-center">
-            <h5>Case Study</h5>
-            <h2 class="text-anime-style-3">SEOC Case Study</h2>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-12">
-            <div class="cs_case_study_1_list">
-              <div class="cs_case_study cs_style_1 cs_hover_active active">
-                <a href="case-single.html" class="cs_case_study_thumb cs_bg_filed" data-src="assets/img/all-images/case-img1.png"></a>
-                <div class="content-area1">
-                  <a href="case-single.html">Website  Design & Development</a>
-                </div>
-                <div class="content-area">
-                  <a href="case-single.html">Website  Design & Development </a>
-                  <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
-                </div>
-              </div>
-              <div class="cs_case_study cs_style_1 cs_hover_active">
-                <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb2 cs_bg_filed" data-src="assets/img/all-images/case-img2.png"></a>
-                <div class="content-area1">
-                  <a href="case-single.html">SEO</a>
-                </div>
-                <div class="content-area">
-                  <a href="case-single.html">SEO</a>
-                  <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
-                </div>
-              </div>
-              <div class="cs_case_study cs_style_1 cs_hover_active">
-                <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb3 cs_bg_filed" data-src="assets/img/all-images/case-img3.png"></a>
-                <div class="content-area1">
-                  <a href="case-single.html">PPC Advertising</a>
-                </div>
-                <div class="content-area">
-                  <a href="case-single.html">PPC Advertising</a>
-                  <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
-                </div>
-              </div>
-              <div class="cs_case_study cs_style_1 cs_hover_active">
-                <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb4 cs_bg_filed" data-src="assets/img/all-images/case-img4.png"></a>
-                <div class="content-area1">
-                  <a href="case-single.html">Social Media Marketing</a>
-                </div>
-                <div class="content-area">
-                  <a href="case-single.html">Social Media Marketing</a>
-                  <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
-                </div>
-              </div>
-              <div class="cs_case_study cs_style_1 cs_hover_active">
-                <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb5 cs_bg_filed" data-src="assets/img/all-images/case-img5.png"></a>
-                <div class="content-area1">
-                  <a href="case-single.html">Content Marketing</a>
-                </div>
-                <div class="content-area">
-                  <a href="case-single.html">Content Marketing</a>
-                  <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
-                </div>
-              </div>
-              <div class="cs_case_study cs_style_1 cs_hover_active">
-                <a href="#" class="cs_case_study_thumb cs_case_study_thumb6 cs_bg_filed" data-src="assets/img/all-images/case-img6.png"></a>
-                <div class="content-area1">
-                  <a href="case-single.html">Email Marketing</a>
-                </div>
-                <div class="content-area">
-                  <a href="case-single.html">Email Marketing</a>
-                  <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
-                </div>
-              </div>
-              <div class="cs_case_study cs_style_1 cs_hover_active " style="margin: 0 !important;">
-                <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb7 cs_bg_filed" data-src="assets/img/all-images/case-img7.png"></a>
-                <div class="content-area1">
-                  <a href="case-single.html">Analytics & Reporting</a>
-                </div>
-                <div class="content-area">
-                  <a href="case-single.html">Analytics & Reporting</a>
-                  <p>We understand the critical role that a well-designed and user-friendly website plays in shaping your online presence driving.</p>
-                </div>
-              </div>
-            </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!--===== CASE AREA ENDS =======-->
-
-  
 <!--===== SERVICE AREA STARTS =======-->
 <div class="service1-section-area sp1 bg2">
     <div class="container">
@@ -180,7 +88,7 @@
         <div class="col-lg-12 m-auto">
           <div class="service-header-area heading2 text-center">
             <h5>Our Service</h5>
-           <h2>Social Media Service</h2>
+           <h2>Mobile App Development Services</h2>
           </div>
         </div>
       </div>
@@ -188,35 +96,35 @@
         <div class="col-lg-12">
           <div class="service-all-boxes-area">
             <div class="service-boxarea">
-              <a href="service1.html">Search Engine Optimization ( SEO)</a>
+              <a href="service1.html">iOS App Development</a>
               <div class="space40"></div>
-              <img src="assets/img/icons/service-icon1.svg" alt="">
+              <img src="assets/img/icons/apple-icon.svg" alt="">
               <div class="space40"></div>
-              <p>Enhance your online visibility & drive organic traffic with our advanced SEO techniques. We optimize your website to rank higher.</p>
+              <p>Custom native iOS applications built with Swift that leverage the full potential of Apple's ecosystem for superior performance and user experience.</p>
             </div>
   
             <div class="service-boxarea box2">
-              <a href="service1.html">Pay-Per-Click (PPC) Advertising</a>
+              <a href="service1.html">Android App Development</a>
               <div class="space40"></div>
-              <img src="assets/img/icons/service-icon2.svg" alt="">
+              <img src="assets/img/icons/android-icon.svg" alt="">
               <div class="space40"></div>
-              <p>Reach your audience instantly and drive qualified leads with targeted PPC campaigns. Our experts craft compelling ad copy and optimize.</p>
+              <p>High-quality Android apps developed with Kotlin and Java, designed to work seamlessly across all Android devices and versions.</p>
             </div>
   
             <div class="service-boxarea box3">
-              <a href="service1.html">Social Media Marketing</a>
-              <div class="space66"></div>
-              <img src="assets/img/icons/service-icon3.svg" alt="">
+              <a href="service1.html">Cross-Platform Development</a>
               <div class="space40"></div>
-              <p>Build a strong brand presence and engage with your audience on social media platforms. We create strategic social media campaigns to boost brand.</p>
+              <img src="assets/img/icons/cross-platform-icon.svg" alt="">
+              <div class="space40"></div>
+              <p>Cost-effective cross-platform solutions using Flutter and React Native that deliver native-like performance on both iOS and Android.</p>
             </div>
   
             <div class="service-boxarea box4">
-              <a href="service1.html">Website Design and Development</a>
+              <a href="service1.html">App Maintenance & Support</a>
               <div class="space40"></div>
-              <img src="assets/img/icons/service-icon4.svg" alt="">
+              <img src="assets/img/icons/maintenance-icon.svg" alt="">
               <div class="space40"></div>
-              <p>Make a lasting impression with a professionally designed and user-friendly website. Our web design and development services ensure website.</p>
+              <p>Ongoing maintenance, updates, and technical support to keep your app running smoothly and taking advantage of new platform features.</p>
             </div>
           </div>
         </div>
@@ -240,7 +148,7 @@
             <div class="col-lg-6 m-auto">
                 <div class="choose-header-area text-center heading2">
                     <h5>Why Choose Us</h5>
-                    <h2>Why Choose SEOC For PPC?</h2>
+                    <h2>Why Choose SEOC For App Development?</h2>
                 </div>
             </div>
         </div>
@@ -251,52 +159,52 @@
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                              1. Customized Strategies
+                              1. Full-Cycle Development
                             </button>
                           </h2>
                           <div id="flush-collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">We believe in transparency and provide regular updates and detailed reports on your campaign's progress.</div>
+                            <div class="accordion-body">We handle every aspect of app development from concept to deployment and maintenance.</div>
                             <div class="space10"></div>
-                            <div class="accordion-body body2">Ready to boost your online presence and drive more organic traffic to your website.</div>
+                            <div class="accordion-body body2">Our end-to-end services ensure a cohesive development process and consistent quality.</div>
                           </div>
                         </div>
                         <div class="space24"></div>
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                              2.Transparent Reporting
+                              2. User-Centric Design
                             </button>
                           </h2>
                           <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">We believe in transparency and provide regular updates and detailed reports on your campaign's progress.</div>
+                            <div class="accordion-body">We prioritize intuitive UX/UI design that enhances engagement and retention.</div>
                             <div class="space10"></div>
-                            <div class="accordion-body body2">Ready to boost your online presence and drive more organic traffic to your website.</div>
+                            <div class="accordion-body body2">Our designs are tested for usability across different devices and user scenarios.</div>
                           </div>
                         </div>
                         <div class="space24"></div>
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                              3.Proven Results
+                              3. Agile Methodology
                             </button>
                           </h2>
                           <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">We believe in transparency and provide regular updates and detailed reports on your campaign's progress.</div>
+                            <div class="accordion-body">We follow agile development practices for flexibility and continuous improvement.</div>
                             <div class="space10"></div>
-                            <div class="accordion-body body2">Ready to boost your online presence and drive more organic traffic to your website.</div>
+                            <div class="accordion-body body2">Regular sprints and iterations ensure we can adapt to changing requirements efficiently.</div>
                           </div>
                         </div>
                         <div class="space24"></div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                                4.Expert Team
+                                4. Performance Optimization
                               </button>
                             </h2>
                             <div id="flush-collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                <div class="accordion-body">We believe in transparency and provide regular updates and detailed reports on your campaign's progress.</div>
+                                <div class="accordion-body">We optimize apps for speed, battery efficiency, and minimal data usage.</div>
                                 <div class="space10"></div>
-                                <div class="accordion-body body2">Ready to boost your online presence and drive more organic traffic to your website.</div>
+                                <div class="accordion-body body2">Our performance tuning ensures your app delivers the best possible user experience.</div>
                             </div>
                           </div>
                       </div>
@@ -304,18 +212,18 @@
             </div>
             <div class="col-lg-6">
                 <div class="about-all-images-area">
-                    <img src="assets/img/elements/elements14.png" alt="" class="elements12 keyframe5">
-                    <img src="assets/img/elements/elements15.png" alt="" class="elements13 keyframe5">
+                    <img src="assets/img/elements/app-dev5.png" alt="" class="elements12 keyframe5">
+                    <img src="assets/img/elements/app-dev6.png" alt="" class="elements13 keyframe5">
                     <div class="row">
                       <div class="col-lg-6 col-md-6">
                         <div class="img1">
                             <div class="space100"></div>
-                          <img src="assets/img/all-images/service-img5.png" alt="">
+                          <img src="assets/img/all-images/app-dev-img1.png" alt="">
                         </div>
                       </div>
                       <div class="col-lg-6 col-md-6">
                         <div class="img2">
-                          <img src="assets/img/all-images/service-img9.png" alt="">
+                          <img src="assets/img/all-images/app-dev-img2.png" alt="">
                         </div>
                       </div>
                     </div>
@@ -326,6 +234,67 @@
 </div>
 <!--===== CHOOSE AREA ENDS =======-->
 
+<!--===== CASE AREA STARTS =======-->
+<div class="case1-section-area sp1">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 m-auto">
+          <div class="case-header-area heading2 text-center">
+            <h5>Case Study</h5>
+            <h2 class="text-anime-style-3">Our App Development Success Stories</h2>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">
+            <div class="cs_case_study_1_list">
+              <div class="cs_case_study cs_style_1 cs_hover_active active">
+                <a href="case-single.html" class="cs_case_study_thumb cs_bg_filed" data-src="assets/img/all-images/app-case1.png"></a>
+                <div class="content-area1">
+                  <a href="case-single.html">E-Commerce Mobile App</a>
+                </div>
+                <div class="content-area">
+                  <a href="case-single.html">Retail Shopping Platform</a>
+                  <p>Developed a feature-rich e-commerce app with AR try-on features that increased conversions by 35%.</p>
+                </div>
+              </div>
+              <div class="cs_case_study cs_style_1 cs_hover_active">
+                <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb2 cs_bg_filed" data-src="assets/img/all-images/app-case2.png"></a>
+                <div class="content-area1">
+                  <a href="case-single.html">Fitness Tracking App</a>
+                </div>
+                <div class="content-area">
+                  <a href="case-single.html">Health & Wellness</a>
+                  <p>Created a cross-platform fitness app with wearable integration that gained 500k+ downloads in first year.</p>
+                </div>
+              </div>
+              <div class="cs_case_study cs_style_1 cs_hover_active">
+                <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb3 cs_bg_filed" data-src="assets/img/all-images/app-case3.png"></a>
+                <div class="content-area1">
+                  <a href="case-single.html">Banking Application</a>
+                </div>
+                <div class="content-area">
+                  <a href="case-single.html">Financial Services</a>
+                  <p>Built a secure mobile banking app with biometric authentication that reduced customer service calls by 40%.</p>
+                </div>
+              </div>
+              <div class="cs_case_study cs_style_1 cs_hover_active">
+                <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb4 cs_bg_filed" data-src="assets/img/all-images/app-case4.png"></a>
+                <div class="content-area1">
+                  <a href="case-single.html">On-Demand Service App</a>
+                </div>
+                <div class="content-area">
+                  <a href="case-single.html">Service Industry</a>
+                  <p>Developed a real-time scheduling app that helped our client expand to 3 new markets within 6 months.</p>
+                </div>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--===== CASE AREA ENDS =======-->
+
 <!--===== TEAM AREA STARTS =======-->
 <div class="team-inner-section-area sp1">
     <div class="container">
@@ -333,7 +302,7 @@
         <div class="col-lg-6 m-auto">
           <div class="team2-header-area text-center heading2">
             <h5>Our Team</h5>
-            <h2>Meet With Our Expert Team</h2>
+            <h2>Meet Our App Development Experts</h2>
           </div>
         </div>
       </div>
@@ -351,7 +320,7 @@
             </ul>
             <div class="content">
               <a href="team.html">John Doe</a>
-              <p>CEO & Founder</p>
+              <p>iOS Developer</p>
             </div>
           </div>
         </div>
@@ -369,7 +338,7 @@
             </ul>
             <div class="content">
               <a href="team.html">Jane Smith</a>
-              <p>Digital Marketing Officer</p>
+              <p>Android Developer</p>
             </div>
           </div>
         </div>
@@ -387,7 +356,7 @@
             </ul>
             <div class="content">
               <a href="team.html">Sarah Thompson </a>
-              <p>Web Designer</p>
+              <p>UX/UI Designer</p>
             </div>
           </div>
         </div>
@@ -405,7 +374,7 @@
             </ul>
             <div class="content">
               <a href="team.html">David Garcia</a>
-              <p>Content Writer</p>
+              <p>Project Manager</p>
             </div>
           </div>
         </div>
@@ -421,7 +390,7 @@
         <div class="col-lg-12 m-auto">
           <div class="blog-hedaer-area heading2 text-center">
             <h5>Our Blog</h5>
-            <h2>Our Latest Blog & News</h2>
+            <h2>Latest Mobile App Insights</h2>
           </div>
         </div>
       </div>
@@ -438,8 +407,8 @@
                   <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
                 </ul>
               </div>
-              <a href="blog-single.html">10 Essential SEO Tips to Boost Your Website's Ranking</a>
-              <p>Are you looking to improve your website's visibility and attract more organic traffic? </p>
+              <a href="blog-single.html">Native vs Hybrid Apps: Which is Right for Your Business?</a>
+              <p>Explore the pros and cons of native and hybrid mobile app development approaches.</p>
               <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
@@ -458,8 +427,8 @@
                   <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
                 </ul>
               </div>
-              <a href="blog-single.html">The Power of PPC Advertising: How to Maximize Your ROI</a>
-              <p>Unlock the full potential of your digital marketing strategy with the power of PPC.</p>
+              <a href="blog-single.html">Top 5 Mobile App Design Trends for 2023</a>
+              <p>Discover the latest design trends that are shaping user expectations in mobile apps.</p>
               <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
@@ -478,8 +447,8 @@
                   <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
                 </ul>
               </div>
-              <a href="blog-single.html">The Importance of Responsive Web Design in the Mobile Age</a>
-              <p>Where mobile devices dominate internet usage, responsive web design more crucial.</p>
+              <a href="blog-single.html">How to Reduce Mobile App Development Costs Without Sacrificing Quality</a>
+              <p>Practical strategies for optimizing your app development budget while maintaining high standards.</p>
               <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>

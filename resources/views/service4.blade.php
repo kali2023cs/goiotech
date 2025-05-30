@@ -1,6 +1,5 @@
 @include('partials.header')
 
-
 <!--===== HERO AREA STARTS =======-->
 <div class="about-header-area" style="background-image: url(assets/img/bg/inner-header.png); background-repeat: no-repeat; background-size: cover; background-position: center;">
     <img src="assets/img/elements/elements1.png" alt="" class="elements1 aniamtion-key-1">
@@ -9,8 +8,8 @@
         <div class="row">
             <div class="col-lg-8 m-auto">
                 <div class="about-inner-header heading9 text-center">
-                    <h1>Email Marketing</h1>
-                    <a href="index.html">Home <i class="fa-solid fa-angle-right"></i> Services <i class="fa-solid fa-angle-right"></i> <span>Email Marketing</span></a>
+                    <h1>eCommerce Development</h1>
+                    <a href="index.html">Home <i class="fa-solid fa-angle-right"></i> Services <i class="fa-solid fa-angle-right"></i> <span>eCommerce Development</span></a>
                 </div>
             </div>
         </div>
@@ -29,9 +28,9 @@
             </div>
             <div class="col-lg-6">
                 <div class="service-textarea heading2">
-                    <h5>Email Marketing</h5>
-                    <h2>Email Marketing Services</h2>
-                    <p>Email marketing with a high return on investment (ROI) and the ability <br class="d-lg-block d-none"> to deliver personalized content directly to your customers' inboxes, <br class="d-lg-block d-none"> email marketing is essential for building lasting relationships and <br class="d-lg-block d-none"> driving business growth.</p>
+                    <h5>eCommerce Solutions</h5>
+                    <h2>Custom eCommerce Development Services</h2>
+                    <p>Transform your online business with our comprehensive eCommerce development solutions. <br class="d-lg-block d-none"> At Goio Tech, we build high-performing online stores that drive sales and <br class="d-lg-block d-none"> deliver exceptional shopping experiences across all devices.</p>
                     <div class="space32"></div>
                     <div class="btn-area1">
                         <a href="service1.html" class="header-btn1">View Our Services <span><i class="fa-solid fa-arrow-right"></i></span></a>
@@ -49,7 +48,7 @@
       <div class="row align-items-center">
         <div class="col-lg-2">
           <div class="sldier-head">
-            <p>Trusted by  <br class="d-lg-block d-none"> Top Companies</p>
+            <p>Trusted by  <br class="d-lg-block d-none"> Top Brands</p>
           </div>
         </div>
         <div class="col-lg-10">
@@ -102,11 +101,11 @@
             </div>
             <div class="col-lg-4">
                 <div class="works-header-area heading2 specing2">
-                    <h5>Email Marketing</h5>
-                    <h2>Email Strategy Development</h2>
-                    <p>We develop customized email marketing strategies that align with your business goals and target audience. We segment your email list to ensure that your messages are relevant personalized for different audience groups.</p>
+                    <h5>eCommerce Development</h5>
+                    <h2>Custom Online Store Development</h2>
+                    <p>We create fully customized eCommerce websites tailored to your business needs and brand identity. Our solutions include seamless product management, inventory tracking, and customer relationship tools.</p>
                     <div class="space16"></div>
-                    <p>We create a comprehensive content calendar to schedule and plan your email campaigns effectively.</p>
+                    <p>We implement secure payment gateways and optimize checkout processes to maximize conversions and reduce cart abandonment.</p>
                 </div>
             </div>
             <div class="col-lg-1"></div>
@@ -117,11 +116,11 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-4">
                 <div class="works-header-area heading2">
-                    <h5>Email Marketing</h5>
-                    <h2>Email Design & Development</h2>
-                    <p>We design and develop responsive email templates that look great on all devices, ensuring seamless experience.</p>
+                    <h5>eCommerce Development</h5>
+                    <h2>Mobile-Optimized Shopping</h2>
+                    <p>We develop responsive eCommerce sites that provide flawless shopping experiences across all devices, from desktops to smartphones.</p>
                     <div class="space16"></div>
-                    <p>We create visually appealing emails that reflect your brand's identity and capture your audience's attention.</p>
+                    <p>Our mobile-first approach ensures your store loads quickly and functions perfectly on smaller screens, where most shopping now occurs.</p>
                 </div>
             </div>
 
@@ -172,11 +171,11 @@
             </div>
             <div class="col-lg-4">
                 <div class="works-header-area heading2 specing2">
-                    <h5>Email Marketing</h5>
-                    <h2>Content Creation</h2>
-                    <p>We craft compelling email copy that resonates with your audience and drives action. We include relevant images, videos, and other media to enhance your emails and keep them visually appealing.</p>
+                    <h5>eCommerce Development</h5>
+                    <h2>Platform Solutions</h2>
+                    <p>We specialize in developing stores on all major platforms including Shopify, WooCommerce, Magento, and custom solutions. Our team integrates essential eCommerce features like product recommendations, wishlists, and loyalty programs.</p>
                     <div class="space16"></div>
-                    <p>We create informative and engaging content that adds value to your subscribers and encourages them to stay connected.</p>
+                    <p>We implement advanced analytics to track customer behavior and optimize your store's performance continuously.</p>
                 </div>
             </div>
             <div class="col-lg-1"></div>
@@ -184,8 +183,6 @@
     </div>
 </div>
 <!--===== WORK AREA ENDS =======-->
-
-
 
 <!--===== CTA AREA STARTS =======-->
 <div class="cta-section-area others-cta">
@@ -195,8 +192,8 @@
     <div class="row">
       <div class="col-lg-8 m-auto">  
         <div class="cta-header-area text-center sp4 heading2">
-          <h2>Competitor Analysis</h2>
-          <p>Find the keywords your competitors rank for and analyze their <br class="d-lg-block d-none"> data insights to uncover their SEO strategy in one click</p>
+          <h2>eCommerce Consultation</h2>
+          <p>Get a free analysis of your current online store and discover opportunities <br class="d-lg-block d-none"> to improve conversions and increase sales</p>
           <div class="space32"></div>
           <div class="form-area">
             <form>
@@ -215,10 +212,10 @@
             </form>
           </div>
           <ul>
-            <li>Try:</li>
-            <li><a href="#">Marketing</a></li>
-            <li><a href="#">Laptop</a></li>
-            <li><a href="#">iPhone</a></li>
+            <li>Popular Platforms:</li>
+            <li><a href="#">Shopify</a></li>
+            <li><a href="#">WooCommerce</a></li>
+            <li><a href="#">Magento</a></li>
           </ul>
         </div>
       </div>
@@ -227,265 +224,6 @@
 </div>
 <!--===== CTA AREA ENDS =======-->
 
-
-      <!-- analysis-area-start -->
-      <section class="analysis-area sp1">
-        <div class="container">
-           <div class="row">
-              <div class="col-lg-8 m-auto">
-                 <div class="analysis-inner-section text-center heading2">
-                     <h5>Website Analysis</h5>
-                    <h2>Conduct Website Audience Analysis <br class="d-lg-block d-none"> And Explore Its Geography</h2>
-                 </div>
-              </div>
-           </div>
-           <div class="row">
-              <div class="col-lg-10 m-auto">
-                 <div class="services-seo">
-                    <div class="services-seo-scroll">
-                       <div class="services-seo-head">
-                          <div class="row">
-                             <div class="col-xl-4 col-lg-5 col-5">
-                                <div class="services-seo-heading">
-                                   <h4 class="services-seo-heading-title">
-                                      <input id="remeber" type="checkbox">
-                                      <label for="remeber">Blanking</label>
-                                   </h4>
-                                </div>
-                             </div>
-                             <div class="col-xl-8 col-lg-7 col-7">
-                                <div class="services-seo-catagory">
-                                   <div class="row">
-                                      <div class="col-lg-3 col-3">
-                                         <div class="services-seo-heading-item services-seo-catagory-one">
-                                            <span>Score</span>
-                                         </div>
-                                      </div>
-                                      <div class="col-lg-3 col-3">
-                                         <div class="services-seo-heading-item services-seo-catagory-two">
-                                            <span>Keyword</span>
-                                         </div>
-                                      </div>
-                                      <div class="col-lg-3 col-3">
-                                         <div class="services-seo-heading-item services-seo-catagory-three">
-                                            <span>Domain</span>
-                                         </div>
-                                      </div>
-                                      <div class="col-lg-3 col-3">
-                                         <div class="services-seo-heading-item services-seo-catagory-four">
-                                            <div class="rank">
-                                               <span>Rank
-                                                  <i class="fa-light fa-angle-up"></i>
-                                                  <svg width="14" height="14" viewBox="0 0 14 14" fill="none"
-                                                     xmlns="http://www.w3.org/2000/svg">
-                                                     <path
-                                                        d="M6.33239 1.14917H5.14742C2.18498 1.14917 1 2.33415 1 5.29659V8.85152C1 11.814 2.18498 12.9989 5.14742 12.9989H8.70235C11.6648 12.9989 12.8498 11.814 12.8498 8.85152V7.66654"
-                                                        stroke="white" stroke-opacity="0.7" stroke-width="1.5"
-                                                        stroke-linecap="round" stroke-linejoin="round" />
-                                                     <path
-                                                        d="M9.31928 1.75319L4.65047 6.42199C4.47273 6.59974 4.29498 6.94931 4.25943 7.20408L4.00466 8.98747C3.90986 9.63328 4.36608 10.0836 5.01189 9.9947L6.79528 9.73993C7.04412 9.70438 7.39369 9.52663 7.57736 9.34889L12.2462 4.68008C13.052 3.8743 13.4311 2.93816 12.2462 1.75319C11.0612 0.568212 10.1251 0.947404 9.31928 1.75319Z"
-                                                        stroke="white" stroke-opacity="0.7" stroke-width="1.5"
-                                                        stroke-miterlimit="10" stroke-linecap="round"
-                                                        stroke-linejoin="round" />
-                                                     <path
-                                                        d="M8.64844 2.42236C9.0454 3.83841 10.1534 4.94636 11.5753 5.34925"
-                                                        stroke="white" stroke-opacity="0.7" stroke-width="1.5"
-                                                        stroke-miterlimit="10" stroke-linecap="round"
-                                                        stroke-linejoin="round" />
-                                                  </svg>
-                                               </span>
-                                            </div>
-                                         </div>
-                                      </div>
-                                   </div>
-                                </div>
-                             </div>
-                          </div>
-                       </div>
-                       <div class="services-seo-info">
-                          <div class="services-seo-item">
-                             <div class="row align-items-center">
-                                <div class="col-xl-4 col-lg-5 col-5">
-                                   <div class="services-seo-link d-flex">
-                                      <div class="services-seo-link-check">
-                                         <input id="seo-link-check" type="checkbox">
-                                         <label for="seo-link-check">WOG PRIDE on the app store</label>
-                                         <span><a href="#">https://www.daraz.com/gameing-laptops/</a></span>
-                                      </div>
-                                   </div>
-                                </div>
-                                <div class="col-xl-8 col-lg-7 col-7">
-                                   <div class="services-seo-catagory">
-                                      <div class="row">
-                                         <div class="col-lg-3 col-3">
-                                            <div class="services-seo-catagory-item services-seo-catagory-one">
-                                               <span>86</span>
-                                            </div>
-                                         </div>
-                                         <div class="col-lg-3 col-3">
-                                            <div class="services-seo-catagory-item services-seo-catagory-two">
-                                               <span>Laptop</span>
-                                            </div>
-                                         </div>
-                                         <div class="col-lg-3 col-3">
-                                            <div class="services-seo-catagory-item services-seo-catagory-three">
-                                               <span><a href="#">daraz.com</a></span>
-                                            </div>
-                                         </div>
-                                         <div class="col-lg-3 col-3">
-                                            <div
-                                               class="services-seo-catagory-item services-seo-catagory-four d-flex align-items-center">
-                                               <div class="stable-rank"><span>4</span></div>
-                                               <div class="incridable-rank">
-                                                <i class="fa-solid fa-angle-up"></i>
-                                                  <span>1</span>
-                                               </div>
-                                            </div>
-                                         </div>
-                                      </div>
-                                   </div>
-                                </div>
-                             </div>
-                          </div>
-                          <div class="services-seo-item">
-                             <div class="row align-items-center">
-                                <div class="col-xl-4 col-lg-5 col-5">
-                                   <div class="services-seo-link d-flex">
-                                      <div class="services-seo-link-check">
-                                         <input id="seo-link-check-2" type="checkbox">
-                                         <label for="seo-link-check-2">SEO PRIDE on the app store</label>
-                                         <span><a href="#">https://www.daraz.com/gameing-laptops/</a></span>
-                                      </div>
-                                   </div>
-                                </div>
-                                <div class="col-xl-8 col-lg-7 col-7">
-                                   <div class="services-seo-catagory">
-                                      <div class="row">
-                                         <div class="col-lg-3 col-3">
-                                            <div class="services-seo-catagory-item services-seo-catagory-one">
-                                               <span>105</span>
-                                            </div>
-                                         </div>
-                                         <div class="col-lg-3 col-3">
-                                            <div class="services-seo-catagory-item services-seo-catagory-two">
-                                               <span>Laptop</span>
-                                            </div>
-                                         </div>
-                                         <div class="col-lg-3 col-3">
-                                            <div class="services-seo-catagory-item services-seo-catagory-three">
-                                               <span><a href="#">daraz.com</a></span>
-                                            </div>
-                                         </div>
-                                         <div class="col-lg-3 col-3">
-                                            <div
-                                               class="services-seo-catagory-item services-seo-catagory-four d-flex align-items-center">
-                                               <div class="stable-rank"><span>0</span></div>
-                                               <div class="incridable-rank">
-                                                
-                                               </div>
-                                            </div>
-                                         </div>
-                                      </div>
-                                   </div>
-                                </div>
-                             </div>
-                          </div>
-                          <div class="services-seo-item">
-                             <div class="row align-items-center">
-                                <div class="col-xl-4 col-lg-5 col-5">
-                                   <div class="services-seo-link d-flex">
-                                      <div class="services-seo-link-check">
-                                         <input id="seo-link-check-3" type="checkbox">
-                                         <label for="seo-link-check-3">PRIDE on the app store</label>
-                                         <span><a href="#">https://www.daraz.com/gameing-laptops/</a></span>
-                                      </div>
-                                   </div>
-                                </div>
-                                <div class="col-xl-8 col-lg-7 col-7">
-                                   <div class="services-seo-catagory">
-                                      <div class="row">
-                                         <div class="col-lg-3 col-3">
-                                            <div class="services-seo-catagory-item services-seo-catagory-one">
-                                               <span>42</span>
-                                            </div>
-                                         </div>
-                                         <div class="col-lg-3 col-3">
-                                            <div class="services-seo-catagory-item services-seo-catagory-two">
-                                               <span>Laptop</span>
-                                            </div>
-                                         </div>
-                                         <div class="col-lg-3 col-3">
-                                            <div class="services-seo-catagory-item services-seo-catagory-three">
-                                               <span><a href="#">daraz.com</a></span>
-                                            </div>
-                                         </div>
-                                         <div class="col-lg-3 col-3">
-                                            <div
-                                               class="services-seo-catagory-item services-seo-catagory-four d-flex align-items-center">
-                                               <div class="stable-rank"><span>3</span></div>
-                                               <div class="incridable-rank incridable-rank-y">
-                                                <i class="fa-solid fa-angle-up"></i>
-                                                  <span>2</span>
-                                               </div>
-                                            </div>
-                                         </div>
-                                      </div>
-                                   </div>
-                                </div>
-                             </div>
-                          </div>
-                          <div class="services-seo-item">
-                             <div class="row align-items-center">
-                                <div class="col-xl-4 col-lg-5 col-5">
-                                   <div class="services-seo-link d-flex">
-                                      <div class="services-seo-link-check">
-                                         <input id="seo-link-check-4" type="checkbox">
-                                         <label for="seo-link-check-4">WOG on the Online store</label>
-                                         <span><a href="#">https://www.daraz.com/gameing-laptops/</a></span>
-                                      </div>
-                                   </div>
-                                </div>
-                                <div class="col-xl-8 col-lg-7 col-7">
-                                   <div class="services-seo-catagory">
-                                      <div class="row">
-                                         <div class="col-lg-3 col-3">
-                                            <div class="services-seo-catagory-item services-seo-catagory-one">
-                                               <span>06</span>
-                                            </div>
-                                         </div>
-                                         <div class="col-lg-3 col-3">
-                                            <div class="services-seo-catagory-item services-seo-catagory-two">
-                                               <span>Laptop</span>
-                                            </div>
-                                         </div>
-                                         <div class="col-lg-3 col-3">
-                                            <div class="services-seo-catagory-item services-seo-catagory-three">
-                                               <span><a href="#">daraz.com</a></span>
-                                            </div>
-                                         </div>
-                                         <div class="col-lg-3 col-3">
-                                            <div
-                                               class="services-seo-catagory-item services-seo-catagory-four d-flex align-items-center">
-                                               <div class="stable-rank"><span>5</span></div>
-                                               <div class="incridable-rank">
-                                                <i class="fa-solid fa-angle-up"></i>
-                                                  <span>1</span>
-                                               </div>
-                                            </div>
-                                         </div>
-                                      </div>
-                                   </div>
-                                </div>
-                             </div>
-                          </div>
-                       </div>
-                    </div>
-                 </div>
-              </div>
-           </div>
-        </div>
-     </section>
-     <!-- analysis-area-end -->
 <!--===== CHOOSE AREA STARTS =======-->
 <div class="choose-section-area sp1">
     <img src="assets/img/bg/cta-bg1.png" alt="" class="cta-bg1 aniamtion-key-2">
@@ -495,7 +233,7 @@
             <div class="col-lg-8 m-auto">
                 <div class="choose-header-area text-center heading2">
                     <h5>Why Choose Us</h5>
-                    <h2>Why Choose SEOC For Email Marketing?</h2>
+                    <h2>Why Choose Goio Tech For eCommerce Development?</h2>
                 </div>
             </div>
         </div>
@@ -506,52 +244,52 @@
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                              1. Customized Strategies
+                              1. Full-Service eCommerce Solutions
                             </button>
                           </h2>
                           <div id="flush-collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">We believe in transparency and provide regular updates and detailed reports on your campaign's progress.</div>
+                            <div class="accordion-body">We handle everything from design and development to payment integration and marketing.</div>
                             <div class="space10"></div>
-                            <div class="accordion-body body2">Ready to boost your online presence and drive more organic traffic to your website.</div>
+                            <div class="accordion-body body2">Our comprehensive approach ensures your online store is optimized for success from day one.</div>
                           </div>
                         </div>
                         <div class="space24"></div>
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                              2.Transparent Reporting
+                              2. Conversion-Focused Design
                             </button>
                           </h2>
                           <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">We believe in transparency and provide regular updates and detailed reports on your campaign's progress.</div>
+                            <div class="accordion-body">We design stores that don't just look great but are engineered to convert visitors into customers.</div>
                             <div class="space10"></div>
-                            <div class="accordion-body body2">Ready to boost your online presence and drive more organic traffic to your website.</div>
+                            <div class="accordion-body body2">Every element is optimized for maximum sales and customer satisfaction.</div>
                           </div>
                         </div>
                         <div class="space24"></div>
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                              3.Proven Results
+                              3. Scalable Architecture
                             </button>
                           </h2>
                           <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">We believe in transparency and provide regular updates and detailed reports on your campaign's progress.</div>
+                            <div class="accordion-body">We build stores that grow with your business, handling increased traffic and product lines effortlessly.</div>
                             <div class="space10"></div>
-                            <div class="accordion-body body2">Ready to boost your online presence and drive more organic traffic to your website.</div>
+                            <div class="accordion-body body2">Our solutions are designed to scale as your business expands.</div>
                           </div>
                         </div>
                         <div class="space24"></div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                                4.Expert Team
+                                4. Ongoing Support
                               </button>
                             </h2>
                             <div id="flush-collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                <div class="accordion-body">We believe in transparency and provide regular updates and detailed reports on your campaign's progress.</div>
+                                <div class="accordion-body">We provide continuous support and optimization to keep your store performing at its peak.</div>
                                 <div class="space10"></div>
-                                <div class="accordion-body body2">Ready to boost your online presence and drive more organic traffic to your website.</div>
+                                <div class="accordion-body body2">Our team is always available to help with updates, maintenance, and improvements.</div>
                             </div>
                           </div>
                       </div>
@@ -624,7 +362,7 @@
             </ul>
             <div class="content">
               <a href="team.html">Jane Smith</a>
-              <p>Digital Marketing Officer</p>
+              <p>eCommerce Specialist</p>
             </div>
           </div>
         </div>
@@ -642,7 +380,7 @@
             </ul>
             <div class="content">
               <a href="team.html">Sarah Thompson </a>
-              <p>Web Designer</p>
+              <p>UX/UI Designer</p>
             </div>
           </div>
         </div>
@@ -660,7 +398,7 @@
             </ul>
             <div class="content">
               <a href="team.html">David Garcia</a>
-              <p>Content Writer</p>
+              <p>Developer</p>
             </div>
           </div>
         </div>
@@ -676,7 +414,7 @@
         <div class="col-lg-12 m-auto">
           <div class="blog-hedaer-area heading2 text-center">
             <h5>Our Blog</h5>
-            <h2>Our Latest Blog & News</h2>
+            <h2>Our Latest eCommerce Insights</h2>
           </div>
         </div>
       </div>
@@ -693,8 +431,8 @@
                   <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
                 </ul>
               </div>
-              <a href="blog-single.html">10 Essential SEO Tips to Boost Your Website's Ranking</a>
-              <p>Are you looking to improve your website's visibility and attract more organic traffic? </p>
+              <a href="blog-single.html">10 Essential Features for High-Converting eCommerce Stores</a>
+              <p>Discover the must-have features that separate successful online stores from the competition.</p>
               <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
@@ -713,8 +451,8 @@
                   <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
                 </ul>
               </div>
-              <a href="blog-single.html">The Power of PPC Advertising: How to Maximize Your ROI</a>
-              <p>Unlock the full potential of your digital marketing strategy with the power of PPC.</p>
+              <a href="blog-single.html">Mobile Commerce: Optimizing Your Store for Smartphone Shoppers</a>
+              <p>With over 70% of eCommerce traffic coming from mobile devices, learn how to optimize for this crucial channel.</p>
               <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
@@ -733,8 +471,8 @@
                   <li><a href="#"><img src="assets/img/icons/calender1.svg" alt="">16 August 2023</a></li>
                 </ul>
               </div>
-              <a href="blog-single.html">The Importance of Responsive Web Design in the Mobile Age</a>
-              <p>Where mobile devices dominate internet usage, responsive web design more crucial.</p>
+              <a href="blog-single.html">Choosing the Right eCommerce Platform for Your Business</a>
+              <p>Compare Shopify, WooCommerce, Magento and custom solutions to find the perfect fit for your online store.</p>
               <a href="blog-single.html" class="readmore">Read More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
           </div>
@@ -744,8 +482,4 @@
   </div>
 <!--===== BLOG AREA ENDS =======-->
 
-<!--===== BLOG AREA ENDS =======-->
-
-
-{{-- Bottom of the page --}}
 @include('partials.footer')

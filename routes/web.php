@@ -11,6 +11,7 @@ Route::get('/service2', [WelcomeController::class, 'service2'])->name('service2'
 Route::get('/service3', [WelcomeController::class, 'service3'])->name('service3');
 Route::get('/service4', [WelcomeController::class, 'service4'])->name('service4');
 Route::get('/service5', [WelcomeController::class, 'service5'])->name('service5');
+Route::get('/service6', [WelcomeController::class, 'service6'])->name('service6');
 Route::get('/case-single', [WelcomeController::class, 'casesingle'])->name('case-single');
 Route::get('/blog-single', [WelcomeController::class, 'blogsingle'])->name('blog-single');
 Route::get('/blog-left', [WelcomeController::class, 'blogleft'])->name('blog-left');

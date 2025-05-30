@@ -1,22 +1,5 @@
 @include('partials.header')
 
-<!--===== HERO AREA STARTS =======-->
-<div class="about-header-area" style="background-image: url(assets/img/bg/inner-header.png); background-repeat: no-repeat; background-size: cover; background-position: center;">
-    <img src="assets/img/elements/elements1.png" alt="" class="elements1 aniamtion-key-1">
-    <img src="assets/img/elements/star2.png" alt="" class="star2 keyframe5">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 m-auto">
-                <div class="about-inner-header heading9 text-center">
-                    <h1>Social Media Marketing</h1>
-                    <a href="index.html">Home <i class="fa-solid fa-angle-right"></i> Case Study <i class="fa-solid fa-angle-right"></i> <span>Social Media Marketing</span></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!--===== HERO AREA ENDS =======-->
-
 <!--===== CASE AREA STARTS =======-->
 <div class="case-inner-section-area sp1">
     <div class="container">
@@ -34,35 +17,32 @@
         <div class="row">
             <div class="col-lg-7 m-auto">
                 <div class="tabs-area text-center">
-                    <ul class="nav nav-pills" id="pills-tab" role="tablist" >
-                      <li class="nav-item" role="presentation" >
-                        <button class="nav-link active" id="pills-email-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="false">All</button>
+                    <ul class="nav nav-pills" id="pills-tab" role="tablist">
+                      <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="pills-all-tab" data-bs-toggle="pill" data-bs-target="#pills-all" type="button" role="tab" aria-controls="pills-all" aria-selected="true">All</button>
                       </li>
-                      <li class="nav-item" role="presentation" >
-                        <button class="nav-link" id="pills-hyper-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Branding</button>
+                      <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="pills-ecommerce-tab" data-bs-toggle="pill" data-bs-target="#pills-ecommerce" type="button" role="tab" aria-controls="pills-ecommerce" aria-selected="false">Ecommerce</button>
                       </li>
-                      <li class="nav-item" role="presentation" >
-                        <button class="nav-link" id="pills-delivary-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Digital PR</button>
+                      <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="pills-website-tab" data-bs-toggle="pill" data-bs-target="#pills-website" type="button" role="tab" aria-controls="pills-website" aria-selected="false">Website Dev</button>
                       </li>
-                      <li class="nav-item" role="presentation" >
-                        <button class="nav-link" id="pills-inbox-tab" data-bs-toggle="pill" data-bs-target="#pills-inbox" type="button" role="tab" aria-controls="pills-inbox" aria-selected="true">PPC</button>
+                      <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="pills-seo-tab" data-bs-toggle="pill" data-bs-target="#pills-seo" type="button" role="tab" aria-controls="pills-seo" aria-selected="false">SEO</button>
                       </li>
-                      <li class="nav-item" role="presentation" >
-                        <button class="nav-link" id="pills-marketing-tab" data-bs-toggle="pill" data-bs-target="#pills-marketing" type="button" role="tab" aria-controls="pills-marketing" aria-selected="true">Marketing</button>
+                      <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="pills-mobile-tab" data-bs-toggle="pill" data-bs-target="#pills-mobile" type="button" role="tab" aria-controls="pills-mobile" aria-selected="false">Mobile App</button>
                       </li>
-                      <li class="nav-item" role="presentation" >
-                        <button class="nav-link " id="pills-seo-tab" data-bs-toggle="pill" data-bs-target="#pills-seo" type="button" role="tab" aria-controls="pills-seo" aria-selected="true">SEO</button>
-                      </li>
-                      <li class="nav-item" role="presentation" >
-                        <button class="nav-link m-0" id="pills-web-tab" data-bs-toggle="pill" data-bs-target="#pills-web" type="button" role="tab" aria-controls="pills-web" aria-selected="true">Web</button>
+                      <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="pills-software-tab" data-bs-toggle="pill" data-bs-target="#pills-software" type="button" role="tab" aria-controls="pills-software" aria-selected="false">Software</button>
                       </li>
                     </ul>
                   </div>
             </div>
             <div class="col-lg-12">
                 <div class="tabs-content-area">
-                    <div class="tab-content" id="pills-tabContent" >
-                      <div class="tab-pane fade active show" id="pills-home" role="tabpanel"  >
+                    <div class="tab-content" id="pills-tabContent">
+                      <div class="tab-pane fade active show" id="pills-all" role="tabpanel">
                         <div class="tabs-contents">
                           <div class="row align-items-center">
                             <div class="col-lg-4">
@@ -72,8 +52,8 @@
                                     </div>
                                     <div class="content-area">
                                       <div class="link-area">
-                                          <a href="case-single.html" class="tags">#SEO</a>
-                                          <a href="case-single.html" class="head">Comprehensive SEO Audit</a>
+                                          <a href="case-single.html" class="tags">#Ecommerce</a>
+                                          <a href="case-single.html" class="head">Shopify Store Development</a>
                                       </div>
                                       <div class="arrow">
                                         <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
@@ -89,8 +69,8 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="case-single.html" class="tags">#Web</a>
-                                      <a href="case-single.html" class="head">Keyword Research & Analysis</a>
+                                      <a href="case-single.html" class="tags">#Website Dev</a>
+                                      <a href="case-single.html" class="head">Corporate Website Redesign</a>
                                   </div>
                                   <div class="arrow">
                                     <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
@@ -106,8 +86,8 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="case-single.html" class="tags">#PPC</a>
-                                      <a href="case-single.html" class="head">One Page Optimization</a>
+                                      <a href="case-single.html" class="tags">#SEO</a>
+                                      <a href="case-single.html" class="head">Local SEO Optimization</a>
                                   </div>
                                   <div class="arrow">
                                     <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
@@ -123,8 +103,8 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="case-single.html" class="tags">#Branding Marketing</a>
-                                      <a href="case-single.html" class="head">Online Media Management</a>
+                                      <a href="case-single.html" class="tags">#Mobile App</a>
+                                      <a href="case-single.html" class="head">Food Delivery App Development</a>
                                   </div>
                                   <div class="arrow">
                                     <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
@@ -140,8 +120,8 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="#" class="tags">#Web </a>
-                                      <a href="case-single.html" class="head">Online Management</a>
+                                      <a href="#" class="tags">#Software</a>
+                                      <a href="case-single.html" class="head">Inventory Management System</a>
                                   </div>
                                   <div class="arrow">
                                     <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
@@ -157,8 +137,8 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="#" class="tags">#Branding, Marketing</a>
-                                      <a href="case-single.html" class="head">Online Media Management</a>
+                                      <a href="#" class="tags">#Ecommerce, SEO</a>
+                                      <a href="case-single.html" class="head">WooCommerce SEO Strategy</a>
                                   </div>
                                   <div class="arrow">
                                     <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
@@ -174,8 +154,8 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="#" class="tags"># Branding, SEO</a>
-                                      <a href="case-single.html" class="head">Domain Migration</a>
+                                      <a href="#" class="tags">#Website Dev, SEO</a>
+                                      <a href="case-single.html" class="head">Website Performance Optimization</a>
                                   </div>
                                   <div class="arrow">
                                     <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
@@ -191,8 +171,8 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="#" class="tags">#Marketing, Web</a>
-                                      <a href="case-single.html" class="head">Content Marketing</a>
+                                      <a href="#" class="tags">#Mobile App, Software</a>
+                                      <a href="case-single.html" class="head">Healthcare Mobile Application</a>
                                   </div>
                                   <div class="arrow">
                                     <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
@@ -208,8 +188,8 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="#" class="tags">#Digital, PR</a>
-                                      <a href="case-single.html" class="head">Content Strategy</a>
+                                      <a href="#" class="tags">#Software, Website Dev</a>
+                                      <a href="case-single.html" class="head">Custom CRM Development</a>
                                   </div>
                                   <div class="arrow">
                                     <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
@@ -220,185 +200,9 @@
                           </div>
                         </div>
                       </div>
-                      <div class="tab-pane fade" id="pills-profile" role="tabpanel" >
-                        <div class="tabs-contents" >
-                          <div class="row align-items-center" >
-                            <div class="col-lg-4">
-                              <div class="case-inner-box">
-                                <div class="img1 image-anime">
-                                    <img src="assets/img/all-images/case-img12.png" alt="">
-                                </div>
-                                <div class="content-area">
-                                  <div class="link-area">
-                                      <a href="#" class="tags">#Branding Marketing</a>
-                                      <a href="case-single.html" class="head">Online Media Management</a>
-                                  </div>
-                                  <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-
-                            <div class="col-lg-4">
-                              <div class="case-inner-box">
-                                <div class="img1 image-anime">
-                                    <img src="assets/img/all-images/case-img14.png" alt="">
-                                </div>
-                                <div class="content-area">
-                                  <div class="link-area">
-                                      <a href="#" class="tags">#Branding, Marketing</a>
-                                      <a href="case-single.html" class="head">Online Media Management</a>
-                                  </div>
-                                  <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-
-                            <div class="col-lg-4">
-                              <div class="case-inner-box">
-                                <div class="img1 image-anime">
-                                    <img src="assets/img/all-images/case-img15.png" alt="">
-                                </div>
-                                <div class="content-area">
-                                  <div class="link-area">
-                                      <a href="#" class="tags"># Branding, SEO</a>
-                                      <a href="case-single.html" class="head">Domain Migration</a>
-                                  </div>
-                                  <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-
-                          </div>
-                        </div>
-                      </div>
-                      <div class="tab-pane fade" id="pills-contact" role="tabpanel"  >
-                        <div class="tabs-contents" >
-                          <div class="row align-items-center" >
-                            <div class="col-lg-4">
-                              <div class="case-inner-box">
-                                <div class="img1 image-anime">
-                                    <img src="assets/img/all-images/case-img17.png" alt="">
-                                </div>
-                                <div class="content-area">
-                                  <div class="link-area">
-                                      <a href="#" class="tags">#Digital, PR</a>
-                                      <a href="case-single.html" class="head">Content Strategy</a>
-                                  </div>
-                                  <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-
-                            <div class="col-lg-4">
-                              <div class="case-inner-box">
-                                <div class="img1 image-anime">
-                                    <img src="assets/img/all-images/case-img15.png" alt="">
-                                </div>
-                                <div class="content-area">
-                                  <div class="link-area">
-                                      <a href="#" class="tags"># Branding, SEO</a>
-                                      <a href="case-single.html" class="head">Domain Migration</a>
-                                  </div>
-                                  <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="tab-pane fade" id="pills-inbox" role="tabpanel" aria-labelledby="pills-inbox-tab" >
-                        <div class="tabs-contents" >
-                          <div class="row align-items-center" >
-                            <div class="col-lg-4">
-                              <div class="case-inner-box">
-                                <div class="img1 image-anime">
-                                    <img src="assets/img/all-images/case-img11.png" alt="">
-                                </div>
-                                <div class="content-area">
-                                  <div class="link-area">
-                                      <a href="#" class="tags">#PPC</a>
-                                      <a href="case-single.html" class="head">One Page Optimization</a>
-                                  </div>
-                                  <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="tab-pane fade" id="pills-marketing" role="tabpanel" aria-labelledby="pills-marketing-tab" >
-                        <div class="tabs-contents" >
-                          <div class="row align-items-center" >
-                            <div class="col-lg-4">
-                              <div class="case-inner-box">
-                                <div class="img1 image-anime">
-                                    <img src="assets/img/all-images/case-img12.png" alt="">
-                                </div>
-                                <div class="content-area">
-                                  <div class="link-area">
-                                      <a href="#" class="tags">#Branding Marketing</a>
-                                      <a href="case-single.html" class="head">Online Media Management</a>
-                                  </div>
-                                  <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-
-                            <div class="col-lg-4">
-                              <div class="case-inner-box">
-                                <div class="img1 image-anime">
-                                    <img src="assets/img/all-images/case-img14.png" alt="">
-                                </div>
-                                <div class="content-area">
-                                  <div class="link-area">
-                                      <a href="#" class="tags">#Branding, Marketing</a>
-                                      <a href="case-single.html" class="head">Online Media Management</a>
-                                  </div>
-                                  <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-
-                            <div class="col-lg-4">
-                              <div class="case-inner-box">
-                                <div class="img1 image-anime">
-                                    <img src="assets/img/all-images/case-img16.png" alt="">
-                                </div>
-                                <div class="content-area">
-                                  <div class="link-area">
-                                      <a href="#" class="tags">#Marketing, Web</a>
-                                      <a href="case-single.html" class="head">Content Marketing</a>
-                                  </div>
-                                  <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="tab-pane fade" id="pills-seo" role="tabpanel" aria-labelledby="pills-seo-tab" >
-                        <div class="tabs-contents" >
-                          <div class="row align-items-center" >
+                      <div class="tab-pane fade" id="pills-ecommerce" role="tabpanel">
+                        <div class="tabs-contents">
+                          <div class="row align-items-center">
                             <div class="col-lg-4">
                               <div class="case-inner-box">
                                   <div class="img1 image-anime">
@@ -406,38 +210,38 @@
                                   </div>
                                   <div class="content-area">
                                     <div class="link-area">
-                                        <a href="#" class="tags">#SEO</a>
-                                        <a href="case-single.html" class="head">Comprehensive SEO Audit</a>
+                                        <a href="case-single.html" class="tags">#Ecommerce</a>
+                                        <a href="case-single.html" class="head">Shopify Store Development</a>
                                     </div>
                                     <div class="arrow">
                                       <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
                                     </div>
                                   </div>
                               </div>
-                          </div>
-                          <div class="col-lg-4">
-                            <div class="case-inner-box">
-                              <div class="img1 image-anime">
-                                  <img src="assets/img/all-images/case-img15.png" alt="">
-                              </div>
-                              <div class="content-area">
-                                <div class="link-area">
-                                    <a href="#" class="tags"># Branding, SEO</a>
-                                    <a href="case-single.html" class="head">Domain Migration</a>
+                            </div>
+
+                            <div class="col-lg-4">
+                              <div class="case-inner-box">
+                                <div class="img1 image-anime">
+                                    <img src="assets/img/all-images/case-img14.png" alt="">
                                 </div>
-                                <div class="arrow">
-                                  <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                <div class="content-area">
+                                  <div class="link-area">
+                                      <a href="#" class="tags">#Ecommerce, SEO</a>
+                                      <a href="case-single.html" class="head">WooCommerce SEO Strategy</a>
+                                  </div>
+                                  <div class="arrow">
+                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                  </div>
                                 </div>
                               </div>
                             </div>
                           </div>
-                          </div>
                         </div>
                       </div>
-
-                      <div class="tab-pane fade" id="pills-web" role="tabpanel" aria-labelledby="pills-web-tab" >
-                        <div class="tabs-contents" >
-                          <div class="row align-items-center" >
+                      <div class="tab-pane fade" id="pills-website" role="tabpanel">
+                        <div class="tabs-contents">
+                          <div class="row align-items-center">
                             <div class="col-lg-4">
                               <div class="case-inner-box">
                                 <div class="img1 image-anime">
@@ -445,8 +249,8 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="#" class="tags">#Web</a>
-                                      <a href="case-single.html" class="head">Keyword Research & Analysis</a>
+                                      <a href="case-single.html" class="tags">#Website Dev</a>
+                                      <a href="case-single.html" class="head">Corporate Website Redesign</a>
                                   </div>
                                   <div class="arrow">
                                     <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
@@ -458,12 +262,108 @@
                             <div class="col-lg-4">
                               <div class="case-inner-box">
                                 <div class="img1 image-anime">
-                                    <img src="assets/img/all-images/case-img13.png" alt="">
+                                    <img src="assets/img/all-images/case-img15.png" alt="">
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="#" class="tags">#Web </a>
-                                      <a href="case-single.html" class="head">Online Management</a>
+                                      <a href="#" class="tags">#Website Dev, SEO</a>
+                                      <a href="case-single.html" class="head">Website Performance Optimization</a>
+                                  </div>
+                                  <div class="arrow">
+                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="col-lg-4">
+                              <div class="case-inner-box">
+                                <div class="img1 image-anime">
+                                    <img src="assets/img/all-images/case-img17.png" alt="">
+                                </div>
+                                <div class="content-area">
+                                  <div class="link-area">
+                                      <a href="#" class="tags">#Software, Website Dev</a>
+                                      <a href="case-single.html" class="head">Custom CRM Development</a>
+                                  </div>
+                                  <div class="arrow">
+                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="tab-pane fade" id="pills-seo" role="tabpanel">
+                        <div class="tabs-contents">
+                          <div class="row align-items-center">
+                            <div class="col-lg-4">
+                              <div class="case-inner-box">
+                                <div class="img1 image-anime">
+                                    <img src="assets/img/all-images/case-img11.png" alt="">
+                                </div>
+                                <div class="content-area">
+                                  <div class="link-area">
+                                      <a href="case-single.html" class="tags">#SEO</a>
+                                      <a href="case-single.html" class="head">Local SEO Optimization</a>
+                                  </div>
+                                  <div class="arrow">
+                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="col-lg-4">
+                              <div class="case-inner-box">
+                                <div class="img1 image-anime">
+                                    <img src="assets/img/all-images/case-img14.png" alt="">
+                                </div>
+                                <div class="content-area">
+                                  <div class="link-area">
+                                      <a href="#" class="tags">#Ecommerce, SEO</a>
+                                      <a href="case-single.html" class="head">WooCommerce SEO Strategy</a>
+                                  </div>
+                                  <div class="arrow">
+                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="col-lg-4">
+                              <div class="case-inner-box">
+                                <div class="img1 image-anime">
+                                    <img src="assets/img/all-images/case-img15.png" alt="">
+                                </div>
+                                <div class="content-area">
+                                  <div class="link-area">
+                                      <a href="#" class="tags">#Website Dev, SEO</a>
+                                      <a href="case-single.html" class="head">Website Performance Optimization</a>
+                                  </div>
+                                  <div class="arrow">
+                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="tab-pane fade" id="pills-mobile" role="tabpanel">
+                        <div class="tabs-contents">
+                          <div class="row align-items-center">
+                            <div class="col-lg-4">
+                              <div class="case-inner-box">
+                                <div class="img1 image-anime">
+                                    <img src="assets/img/all-images/case-img12.png" alt="">
+                                </div>
+                                <div class="content-area">
+                                  <div class="link-area">
+                                      <a href="case-single.html" class="tags">#Mobile App</a>
+                                      <a href="case-single.html" class="head">Food Delivery App Development</a>
                                   </div>
                                   <div class="arrow">
                                     <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
@@ -479,8 +379,8 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="#" class="tags">#Marketing, Web</a>
-                                      <a href="case-single.html" class="head">Content Marketing</a>
+                                      <a href="#" class="tags">#Mobile App, Software</a>
+                                      <a href="case-single.html" class="head">Healthcare Mobile Application</a>
                                   </div>
                                   <div class="arrow">
                                     <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
@@ -488,7 +388,63 @@
                                 </div>
                               </div>
                             </div>
-                            
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="tab-pane fade" id="pills-software" role="tabpanel">
+                        <div class="tabs-contents">
+                          <div class="row align-items-center">
+                            <div class="col-lg-4">
+                              <div class="case-inner-box">
+                                <div class="img1 image-anime">
+                                    <img src="assets/img/all-images/case-img13.png" alt="">
+                                </div>
+                                <div class="content-area">
+                                  <div class="link-area">
+                                      <a href="#" class="tags">#Software</a>
+                                      <a href="case-single.html" class="head">Inventory Management System</a>
+                                  </div>
+                                  <div class="arrow">
+                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="col-lg-4">
+                              <div class="case-inner-box">
+                                <div class="img1 image-anime">
+                                    <img src="assets/img/all-images/case-img16.png" alt="">
+                                </div>
+                                <div class="content-area">
+                                  <div class="link-area">
+                                      <a href="#" class="tags">#Mobile App, Software</a>
+                                      <a href="case-single.html" class="head">Healthcare Mobile Application</a>
+                                  </div>
+                                  <div class="arrow">
+                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="col-lg-4">
+                              <div class="case-inner-box">
+                                <div class="img1 image-anime">
+                                    <img src="assets/img/all-images/case-img17.png" alt="">
+                                </div>
+                                <div class="content-area">
+                                  <div class="link-area">
+                                      <a href="#" class="tags">#Software, Website Dev</a>
+                                      <a href="case-single.html" class="head">Custom CRM Development</a>
+                                  </div>
+                                  <div class="arrow">
+                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>
