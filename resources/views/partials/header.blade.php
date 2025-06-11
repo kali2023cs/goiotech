@@ -408,29 +408,29 @@
                   <li><a href="{{ route('about') }}">About</a></li>
                   <li><a href="#">Services <i class="fa-solid fa-angle-down"></i></a>
                     <ul class="dropdown-padding">
-                      <li><a href="{{ route('service1') }}">Service One</a></li>
-                      <li><a href="{{route('service2')}}">Service Two</a></li>
-                      <li><a href="{{route('service3')}}">Service Three</a></li>
-                      <li><a href="{{route('service4')}}">Service Four</a></li>
-                      <li><a href="{{route('service5')}}">Service Five</a></li>
-                      <li><a href="{{route('service6')}}">Service Six</a></li>
+                      <li><a href="{{ route('premium-services') }}">Premium Services</a></li>
+                      <li><a href="{{route('seo')}}">SEO</a></li>
+                      <li><a href="{{route('hotel-management')}}">HMS software</a></li>
+                      <li><a href="{{route('eCommerce')}}">eCommerce</a></li>
+                      <li><a href="{{route('mobile-app')}}">Mobile App</a></li>
+                      <li><a href="{{route('website-development')}}">Website</a></li>
                     </ul>
                   </li>
-                  <li><a href="#">Blogs <i class="fa-solid fa-angle-down"></i></a>
+                  {{-- <li><a href="#">Blogs <i class="fa-solid fa-angle-down"></i></a>
                   <ul class="dropdown-padding">
                     <li><a href="{{route('blog')}}">Blog One</a></li>
                     <li><a href="{{route('blog-left')}}">Blog Left</a></li>
                     <li><a href="{{route('blog-right')}}">Blog Right</a></li>
                     <li><a href="{{route('blog-single')}}">Blog Single</a></li>
                   </ul>
-                  </li>
+                  </li> --}}
                   <li><a href="#">Pages <i class="fa-solid fa-angle-down"></i></a>
                     <ul class="dropdown-padding">
                       <li><a href="{{route('case')}}">Case Study</a></li>
-                      <li><a href="{{route('case-single')}}">Case Study Single</a></li>
+                      {{-- <li><a href="{{route('hotel-management')}}">Case Study Single</a></li> --}}
                       <li><a href="{{route('team')}}">Our Team</a></li>
-                      <li><a href="{{route('pricing')}}">Pricing Plan</a></li>
-                      <li><a href="{{route('testimonials')}}">Testimonials</a></li>
+                      {{-- <li><a href="{{route('pricing')}}">Pricing Plan</a></li> --}}
+                      {{-- <li><a href="{{route('testimonials')}}">Testimonials</a></li> --}}
                       <li><a href="{{route('faq')}}">FAQ</a></li>
                       <li><a href="{{route('404')}}">404</a></li>
                     </ul>
@@ -495,29 +495,29 @@
       <li><a href="{{route('about')}}">About</a></li>
       <li><a href="404-3.html">Services</a>
         <ul class="sub-menu">
-          <li><a href="{{ route('service1') }}">Service One</a></li>
-          <li><a href="{{route('service2')}}">Service Two</a></li>
-          <li><a href="{{route('service3')}}">Service Three</a></li>
-          <li><a href="{{route('service4')}}">Service Four</a></li>
-          <li><a href="{{route('service5')}}">Service Five</a></li>
-          <li><a href="{{route('service6')}}">Service Six</a></li>
+          <li><a href="{{ route('premium-services') }}">Premium Services</a></li>
+          <li><a href="{{route('seo')}}">Seo</a></li>
+          <li><a href="{{route('hotel-management')}}">HMS software</a></li>
+          <li><a href="{{route('eCommerce')}}">eCommerce</a></li>
+          <li><a href="{{route('mobile-app')}}">Mobile App</a></li>
+          <li><a href="{{route('website-development')}}">Website</a></li>
         </ul>
       </li>
-      <li><a href="#">Blogs</a>
+      {{-- <li><a href="#">Blogs</a>
         <ul class="sub-menu">
           <li><a href="{{route('blog')}}">Blog One</a></li>
           <li><a href="{{route('blog-left')}}">Blog Left</a></li>
           <li><a href="{{route('blog-right')}}">Blog Right</a></li>
           <li><a href="{{route('blog-single')}}">Blog Single</a></li>
         </ul>
-      </li>
+      </li> --}}
       <li><a href="#">Pages</a>
         <ul class="sub-menu">
           <li><a href="{{route('case')}}">Case Study One</a></li>
-          <li><a href="{{route('case-single')}}">Case Study Single</a></li>
+          {{-- <li><a href="{{route('hotel-management')}}">Case Study Single</a></li> --}}
           <li><a href="{{route('team')}}">Our Team</a></li>
-          <li><a href="{{route('pricing')}}">Pricing Plan</a></li>
-          <li><a href="{{route('testimonials')}}">Testimonials</a></li>
+          {{-- <li><a href="{{route('pricing')}}">Pricing Plan</a></li> --}}
+          {{-- <li><a href="{{route('testimonials')}}">Testimonials</a></li> --}}
           <li><a href="{{route('faq')}}">FAQ</a></li>
           <li><a href="{{route('404')}}">404</a></li>
         </ul>

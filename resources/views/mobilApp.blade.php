@@ -10,7 +10,7 @@
             <div class="col-lg-8 m-auto">
                 <div class="about-inner-header heading9 text-center">
                     <h1>Mobile App Development</h1>
-                    <a href="index.html">Home <i class="fa-solid fa-angle-right"></i> Services <i class="fa-solid fa-angle-right"></i> <span>Mobile App Development</span></a>
+                    <a href="{{route('home')}}">Home <i class="fa-solid fa-angle-right"></i> Services <i class="fa-solid fa-angle-right"></i> <span>Mobile App Development</span></a>
                 </div>
             </div>
         </div>
@@ -39,7 +39,7 @@
                     <p>Welcome to SEOC's Mobile App Development Services. Our team specializes in creating high-performance, user-friendly mobile applications for iOS and Android platforms. We transform your ideas into intuitive, feature-rich apps that engage users and drive business growth through cutting-edge mobile technology.</p>
                     <div class="space32"></div>
                     <div class="btn-area1">
-                        <a href="service1.html" class="header-btn1">View Our Services <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                        <a href="{{route('premium-services')}}" class="header-btn1">View Our Services <span><i class="fa-solid fa-arrow-right"></i></span></a>
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@
         <div class="col-lg-12">
           <div class="service-all-boxes-area">
             <div class="service-boxarea">
-              <a href="service1.html">iOS App Development</a>
+              <a href="{{route('premium-services')}}">iOS App Development</a>
               <div class="space40"></div>
               <img src="assets/img/icons/apple-icon.svg" alt="">
               <div class="space40"></div>
@@ -104,7 +104,7 @@
             </div>
   
             <div class="service-boxarea box2">
-              <a href="service1.html">Android App Development</a>
+              <a href="{{route('premium-services')}}">Android App Development</a>
               <div class="space40"></div>
               <img src="assets/img/icons/android-icon.svg" alt="">
               <div class="space40"></div>
@@ -112,7 +112,7 @@
             </div>
   
             <div class="service-boxarea box3">
-              <a href="service1.html">Cross-Platform Development</a>
+              <a href="{{route('premium-services')}}">Cross-Platform Development</a>
               <div class="space40"></div>
               <img src="assets/img/icons/cross-platform-icon.svg" alt="">
               <div class="space40"></div>
@@ -120,7 +120,7 @@
             </div>
   
             <div class="service-boxarea box4">
-              <a href="service1.html">App Maintenance & Support</a>
+              <a href="{{route('premium-services')}}">App Maintenance & Support</a>
               <div class="space40"></div>
               <img src="assets/img/icons/maintenance-icon.svg" alt="">
               <div class="space40"></div>
@@ -131,7 +131,7 @@
         <div class="col-lg-12 m-auto">
             <div class="space50"></div>
             <div class="btn-area1 text-center">
-                <a href="service1.html" class="header-btn1">View More Services <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                <a href="{{route('home')}}" class="header-btn1">View More Services <span><i class="fa-solid fa-arrow-right"></i></span></a>
               </div>
         </div>
       </div>
@@ -249,42 +249,42 @@
         <div class="col-lg-12">
             <div class="cs_case_study_1_list">
               <div class="cs_case_study cs_style_1 cs_hover_active active">
-                <a href="case-single.html" class="cs_case_study_thumb cs_bg_filed" data-src="assets/img/all-images/app-case1.png"></a>
+                <a href="{{route('premium-services')}}" class="cs_case_study_thumb cs_bg_filed" data-src="assets/img/all-images/app-case1.png"></a>
                 <div class="content-area1">
-                  <a href="case-single.html">E-Commerce Mobile App</a>
+                  <a href="{{route('premium-services')}}">E-Commerce Mobile App</a>
                 </div>
                 <div class="content-area">
-                  <a href="case-single.html">Retail Shopping Platform</a>
+                  <a href="{{route('premium-services')}}">Retail Shopping Platform</a>
                   <p>Developed a feature-rich e-commerce app with AR try-on features that increased conversions by 35%.</p>
                 </div>
               </div>
               <div class="cs_case_study cs_style_1 cs_hover_active">
-                <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb2 cs_bg_filed" data-src="assets/img/all-images/app-case2.png"></a>
+                <a href="{{route('premium-services')}}" class="cs_case_study_thumb cs_case_study_thumb2 cs_bg_filed" data-src="assets/img/all-images/app-case2.png"></a>
                 <div class="content-area1">
-                  <a href="case-single.html">Fitness Tracking App</a>
+                  <a href="{{route('premium-services')}}">Fitness Tracking App</a>
                 </div>
                 <div class="content-area">
-                  <a href="case-single.html">Health & Wellness</a>
+                  <a href="{{route('premium-services')}}">Health & Wellness</a>
                   <p>Created a cross-platform fitness app with wearable integration that gained 500k+ downloads in first year.</p>
                 </div>
               </div>
               <div class="cs_case_study cs_style_1 cs_hover_active">
-                <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb3 cs_bg_filed" data-src="assets/img/all-images/app-case3.png"></a>
+                <a href="{{route('premium-services')}}" class="cs_case_study_thumb cs_case_study_thumb3 cs_bg_filed" data-src="assets/img/all-images/app-case3.png"></a>
                 <div class="content-area1">
-                  <a href="case-single.html">Banking Application</a>
+                  <a href="{{route('premium-services')}}">Banking Application</a>
                 </div>
                 <div class="content-area">
-                  <a href="case-single.html">Financial Services</a>
+                  <a href="{{route('premium-services')}}">Financial Services</a>
                   <p>Built a secure mobile banking app with biometric authentication that reduced customer service calls by 40%.</p>
                 </div>
               </div>
               <div class="cs_case_study cs_style_1 cs_hover_active">
-                <a href="case-single.html" class="cs_case_study_thumb cs_case_study_thumb4 cs_bg_filed" data-src="assets/img/all-images/app-case4.png"></a>
+                <a href="{{route('premium-services')}}" class="cs_case_study_thumb cs_case_study_thumb4 cs_bg_filed" data-src="assets/img/all-images/app-case4.png"></a>
                 <div class="content-area1">
-                  <a href="case-single.html">On-Demand Service App</a>
+                  <a href="{{route('premium-services')}}">On-Demand Service App</a>
                 </div>
                 <div class="content-area">
-                  <a href="case-single.html">Service Industry</a>
+                  <a href="{{route('premium-services')}}">Service Industry</a>
                   <p>Developed a real-time scheduling app that helped our client expand to 3 new markets within 6 months.</p>
                 </div>
               </div>
@@ -296,7 +296,7 @@
   <!--===== CASE AREA ENDS =======-->
 
 <!--===== TEAM AREA STARTS =======-->
-<div class="team-inner-section-area sp1">
+{{-- <div class="team-inner-section-area sp1">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 m-auto">
@@ -455,7 +455,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> --}}
 <!--===== BLOG AREA ENDS =======-->
 
 

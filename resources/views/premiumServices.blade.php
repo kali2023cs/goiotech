@@ -10,7 +10,7 @@
             <div class="col-lg-5 m-auto">
                 <div class="about-inner-header heading9 text-center">
                     <h1>Our Premium Services</h1>
-                    <a href="index.html">Home <i class="fa-solid fa-angle-right"></i> <span>Services</span></a>
+                    <a href="{{route('home')}}">Home <i class="fa-solid fa-angle-right"></i></a> <span>Services</span>
                 </div>
             </div>
         </div>
@@ -27,7 +27,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="service-boxarea">
-                        <a href="service1.html">Website Design & Development</a>
+                        <a href="{{route('website-development')}}">Website Design & Development</a>
                         <div class="space40"></div>
                         <img src="assets/img/icons/service-icon1.svg" alt="">
                         <div class="space40"></div>
@@ -37,7 +37,7 @@
            
             <div class="col-lg-3 col-md-6">
                 <div class="service-boxarea">
-                    <a href="service1.html">Search Engine Optimization</a>
+                    <a href="{{route('seo')}}">Search Engine Optimization</a>
                     <div class="space40"></div>
                     <img src="assets/img/icons/service-icon2.svg" alt="">
                     <div class="space40"></div>
@@ -47,7 +47,7 @@
   
             <div class="col-lg-3 col-md-6">
                 <div class="service-boxarea">
-                    <a href="service1.html">Hotel Management Systems</a>
+                    <a href="{{route('hotel-management')}}">Hotel Management Systems</a>
                     <div class="space40"></div>
                     <img src="assets/img/icons/service-icon3.svg" alt="">
                     <div class="space40"></div>
@@ -57,7 +57,7 @@
   
             <div class="col-lg-3 col-md-6">
                 <div class="service-boxarea">
-                    <a href="service1.html">Mobile App Development</a>
+                    <a href="{{route('mobile-app')}}">Mobile App Development</a>
                     <div class="space40"></div>
                     <img src="assets/img/icons/service-icon4.svg" alt="">
                     <div class="space40"></div>
@@ -67,7 +67,7 @@
 
             <div class="col-lg-3 col-md-6">
                 <div class="service-boxarea">
-                    <a href="service1.html">Content Marketing</a>
+                    <a href="{{route('premium-services')}}">Content Marketing</a>
                     <div class="space40"></div>
                     <img src="assets/img/icons/service-icon15.svg" alt="">
                     <div class="space40"></div>
@@ -77,7 +77,7 @@
        
         <div class="col-lg-3 col-md-6">
             <div class="service-boxarea">
-                <a href="service1.html">E-Commerce Solutions</a>
+                <a href="{{route('eCommerce')}}">E-Commerce Solutions</a>
                 <div class="space40"></div>
                 <img src="assets/img/icons/service-icon16.svg" alt="">
                 <div class="space40"></div>
@@ -87,7 +87,7 @@
 
         <div class="col-lg-3 col-md-6">
             <div class="service-boxarea">
-                <a href="service1.html">Digital Marketing</a>
+                <a href="{{route('premium-services')}}">Digital Marketing</a>
                 <div class="space40"></div>
                 <img src="assets/img/icons/service-icon17.svg" alt="">
                 <div class="space40"></div>
@@ -97,7 +97,7 @@
 
         <div class="col-lg-3 col-md-6">
             <div class="service-boxarea">
-                <a href="service1.html">Custom Software Solutions</a>
+                <a href="{{route('premium-services')}}">Custom Software Solutions</a>
                 <div class="space40"></div>
                 <img src="assets/img/icons/service-icon18.svg" alt="">
                 <div class="space40"></div>
@@ -127,7 +127,7 @@
                             <img src="assets/img/icons/works-icons7.svg" alt="">
                         </div>
                         <div class="content">
-                            <a href="case-single.html">Full-Service Expertise</a>
+                            <a href="{{route('premium-services')}}">Full-Service Expertise</a>
                             <p>From initial design to ongoing maintenance, we handle all aspects of web and software development under one roof for seamless project execution.</p>
                         </div>
                     </div>
@@ -137,7 +137,7 @@
                             <img src="assets/img/icons/works-icons8.svg" alt="">
                         </div>
                         <div class="content">
-                            <a href="case-single.html">Industry-Specific Solutions</a>
+                            <a href="{{route('premium-services')}}">Industry-Specific Solutions</a>
                             <p>We develop specialized solutions for industries like hospitality, retail, and services with features tailored to your unique business requirements.</p>
                         </div>
                     </div>
@@ -147,7 +147,7 @@
                             <img src="assets/img/icons/works-icons9.svg" alt="">
                         </div>
                         <div class="content">
-                            <a href="case-single.html">Ongoing Support</a>
+                            <a href="{{route('premium-services')}}">Ongoing Support</a>
                             <p>Our relationship doesn't end at launch. We provide continuous maintenance, updates, and optimization to keep your digital assets performing at peak levels.</p>
                         </div>
                     </div>
@@ -249,7 +249,7 @@
 <!--===== SKILLS AREA ENDS =======-->
 
 <!--===== TEAM AREA STARTS =======-->
-<div class="team-inner-section-area sp2">
+{{-- <div class="team-inner-section-area sp2">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 m-auto">
@@ -333,7 +333,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> --}}
 <!--===== TEAM AREA ENDS =======-->
 
 {{-- Bottom of the page --}}

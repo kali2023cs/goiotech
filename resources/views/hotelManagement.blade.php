@@ -9,7 +9,7 @@
             <div class="col-lg-8 m-auto">
                 <div class="about-inner-header heading9 text-center">
                     <h1>Hotel Management System Implementation</h1>
-                    <a href="index.html">Home <i class="fa-solid fa-angle-right"></i> Case Study <i class="fa-solid fa-angle-right"></i> <span>Hotel Management System</span></a>
+                    <a href="{{route('home')}}">Home <i class="fa-solid fa-angle-right"></i>Services<i class="fa-solid fa-angle-right"></i> <span>Hotel Management System</span></a>
                 </div>
             </div>
         </div>
@@ -27,12 +27,12 @@
                         <div class="col-lg-4">
                             <div class="case-single-hedaer heading2">
                                 <h2>Project Overview</h2>
-                                <p>Implementing a comprehensive hotel management system is essential for modern hospitality businesses to streamline operations, enhance guest experiences, and maximize revenue. This case study outlines our successful implementation for a luxury hotel chain.</p>
+                                <p>We developed an advanced hotel management system designed to elevate operational efficiency, enhance guest satisfaction, and provide real-time analytics for informed decision-making. Tailored for the luxury hospitality sector, this solution integrates seamlessly across departments to deliver a unified, tech-driven guest experience.</p>
                                 <div class="case-others-area">
                                     <ul>
                                         <li><span>Category:</span>Hospitality Technology</li>
-                                        <li><span>Date:</span>15 June, 2024</li>
-                                        <li><span>Client:</span>Grand Horizon Hotels</li>
+                                        <li><span>Platform:</span>Cloud-Based & Scalable Architecture</li>
+                                        <li><span>Focus:</span>Automation & Guest-Centric Features</li>
                                     </ul>
                                 </div>
                             </div>
@@ -113,7 +113,7 @@
                     <p>We began with comprehensive stakeholder interviews across all hotel departments to understand current workflows and pain points. This discovery phase included process mapping, technology audits, and identifying key performance indicators. The findings informed our customized system architecture designed to address specific operational challenges while maintaining flexibility for future growth.</p>
                     <div class="space32"></div>
                     <div class="btn-area1">
-                        <a href="case.html" class="header-btn1">Our Case Studies <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                        <a href="{{route('premium-services')}}" class="header-btn1">Our Case Studies <span><i class="fa-solid fa-arrow-right"></i></span></a>
                     </div>
                 </div>
             </div>
@@ -128,7 +128,7 @@
                     <p>Our phased implementation approach minimized operational disruption. We started with core property management functions before rolling out additional modules. The implementation included data migration from legacy systems, hardware setup, and extensive staff training tailored to different roles. Parallel testing ensured system stability before going live, with contingency plans for critical operations.</p>
                     <div class="space32"></div>
                     <div class="btn-area1">
-                        <a href="case.html" class="header-btn1">Our Case Studies <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                        <a href="{{route('premium-services')}}" class="header-btn1">Our Case Studies <span><i class="fa-solid fa-arrow-right"></i></span></a>
                     </div>
                 </div>
             </div>
@@ -183,7 +183,7 @@
                     <p>Post-implementation, we conducted intensive training sessions and created customized documentation for different staff roles. Our optimization phase included performance monitoring, user feedback collection, and system fine-tuning. We established continuous improvement protocols and scheduled quarterly reviews to ensure the system evolves with the hotel's changing needs and industry trends.</p>
                     <div class="space32"></div>
                     <div class="btn-area1">
-                        <a href="case.html" class="header-btn1">Our Case Studies <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                        <a href="{{route('home')}}" class="header-btn1">Our Case Studies <span><i class="fa-solid fa-arrow-right"></i></span></a>
                     </div>
                 </div>
             </div>

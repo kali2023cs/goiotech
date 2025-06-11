@@ -18,33 +18,33 @@ class WelcomeController extends Controller
     {
         return view('contact');
     }
-    public function service1()
+    public function premiumServices()
     {
-        return view('service1');
+        return view('premiumServices');
     }
-    public function service2()
+    public function seo()
     {
-        return view('service2');
+        return view('seo');
     }
     public function service3()
     {
         return view('service3');
     }
-    public function service4()
+    public function eCommerce()
     {
-        return view('service4');
+        return view('eCommerce');
     }
-    public function service5()
+    public function mobilApp()
     {
-        return view('service5');
+        return view('mobilApp');
     }
-    public function service6()
+    public function websiteDevelopment()
     {
-        return view('service6');
+        return view('websiteDevelopment');
     }
-    public function casesingle()
+    public function hotelManagement()
     {
-        return view('case-single');
+        return view('hotelManagement');
     }
     public function blogsingle()
     {

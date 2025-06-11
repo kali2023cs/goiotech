@@ -9,7 +9,7 @@
             <div class="col-lg-8 m-auto">
                 <div class="about-inner-header heading9 text-center">
                     <h1>eCommerce Development</h1>
-                    <a href="index.html">Home <i class="fa-solid fa-angle-right"></i> Services <i class="fa-solid fa-angle-right"></i> <span>eCommerce Development</span></a>
+                    <a href="{{route('home')}}">Home <i class="fa-solid fa-angle-right"></i> Services <i class="fa-solid fa-angle-right"></i> <span>eCommerce Development</span></a>
                 </div>
             </div>
         </div>
@@ -33,7 +33,7 @@
                     <p>Transform your online business with our comprehensive eCommerce development solutions. <br class="d-lg-block d-none"> At Goio Tech, we build high-performing online stores that drive sales and <br class="d-lg-block d-none"> deliver exceptional shopping experiences across all devices.</p>
                     <div class="space32"></div>
                     <div class="btn-area1">
-                        <a href="service1.html" class="header-btn1">View Our Services <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                        <a href="{{route('premium-services')}}" class="header-btn1">View Our Services <span><i class="fa-solid fa-arrow-right"></i></span></a>
                     </div>
                 </div>
             </div>
@@ -320,7 +320,7 @@
 <!--===== CHOOSE AREA ENDS =======-->
 
 <!--===== TEAM AREA STARTS =======-->
-<div class="team-inner-section-area sp1">
+{{-- <div class="team-inner-section-area sp1">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 m-auto">
@@ -404,11 +404,11 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> --}}
   <!--===== TEAM AREA ENDS =======-->
 
 <!--===== BLOG AREA STARTS =======-->
-<div class="blog1-scetion-area sp1 bg2">
+{{-- <div class="blog1-scetion-area sp1 bg2">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 m-auto">
@@ -479,7 +479,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> --}}
 <!--===== BLOG AREA ENDS =======-->
 
 @include('partials.footer')

@@ -52,11 +52,11 @@
                                     </div>
                                     <div class="content-area">
                                       <div class="link-area">
-                                          <a href="case-single.html" class="tags">#Ecommerce</a>
-                                          <a href="case-single.html" class="head">Shopify Store Development</a>
+                                          <a href="{{route('premium-services')}}" class="tags">#Ecommerce</a>
+                                          <a href="{{route('premium-services')}}" class="head">Shopify Store Development</a>
                                       </div>
                                       <div class="arrow">
-                                        <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                        <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                       </div>
                                     </div>
                                 </div>
@@ -69,11 +69,11 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="case-single.html" class="tags">#Website Dev</a>
-                                      <a href="case-single.html" class="head">Corporate Website Redesign</a>
+                                      <a href="{{route('premium-services')}}" class="tags">#Website Dev</a>
+                                      <a href="{{route('premium-services')}}" class="head">Corporate Website Redesign</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -86,11 +86,11 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="case-single.html" class="tags">#SEO</a>
-                                      <a href="case-single.html" class="head">Local SEO Optimization</a>
+                                      <a href="{{route('premium-services')}}" class="tags">#SEO</a>
+                                      <a href="{{route('premium-services')}}" class="head">Local SEO Optimization</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -103,11 +103,11 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="case-single.html" class="tags">#Mobile App</a>
-                                      <a href="case-single.html" class="head">Food Delivery App Development</a>
+                                      <a href="{{route('premium-services')}}" class="tags">#Mobile App</a>
+                                      <a href="{{route('premium-services')}}" class="head">Food Delivery App Development</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -121,10 +121,10 @@
                                 <div class="content-area">
                                   <div class="link-area">
                                       <a href="#" class="tags">#Software</a>
-                                      <a href="case-single.html" class="head">Inventory Management System</a>
+                                      <a href="{{route('premium-services')}}" class="head">Inventory Management System</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -138,10 +138,10 @@
                                 <div class="content-area">
                                   <div class="link-area">
                                       <a href="#" class="tags">#Ecommerce, SEO</a>
-                                      <a href="case-single.html" class="head">WooCommerce SEO Strategy</a>
+                                      <a href="{{route('premium-services')}}" class="head">WooCommerce SEO Strategy</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -155,10 +155,10 @@
                                 <div class="content-area">
                                   <div class="link-area">
                                       <a href="#" class="tags">#Website Dev, SEO</a>
-                                      <a href="case-single.html" class="head">Website Performance Optimization</a>
+                                      <a href="{{route('premium-services')}}" class="head">Website Performance Optimization</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -172,10 +172,10 @@
                                 <div class="content-area">
                                   <div class="link-area">
                                       <a href="#" class="tags">#Mobile App, Software</a>
-                                      <a href="case-single.html" class="head">Healthcare Mobile Application</a>
+                                      <a href="{{route('premium-services')}}" class="head">Healthcare Mobile Application</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -189,10 +189,10 @@
                                 <div class="content-area">
                                   <div class="link-area">
                                       <a href="#" class="tags">#Software, Website Dev</a>
-                                      <a href="case-single.html" class="head">Custom CRM Development</a>
+                                      <a href="{{route('premium-services')}}" class="head">Custom CRM Development</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -210,11 +210,11 @@
                                   </div>
                                   <div class="content-area">
                                     <div class="link-area">
-                                        <a href="case-single.html" class="tags">#Ecommerce</a>
-                                        <a href="case-single.html" class="head">Shopify Store Development</a>
+                                        <a href="{{route('premium-services')}}" class="tags">#Ecommerce</a>
+                                        <a href="{{route('premium-services')}}" class="head">Shopify Store Development</a>
                                     </div>
                                     <div class="arrow">
-                                      <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                      <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                     </div>
                                   </div>
                               </div>
@@ -228,10 +228,10 @@
                                 <div class="content-area">
                                   <div class="link-area">
                                       <a href="#" class="tags">#Ecommerce, SEO</a>
-                                      <a href="case-single.html" class="head">WooCommerce SEO Strategy</a>
+                                      <a href="{{route('premium-services')}}" class="head">WooCommerce SEO Strategy</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -249,11 +249,11 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="case-single.html" class="tags">#Website Dev</a>
-                                      <a href="case-single.html" class="head">Corporate Website Redesign</a>
+                                      <a href="{{route('premium-services')}}" class="tags">#Website Dev</a>
+                                      <a href="{{route('premium-services')}}" class="head">Corporate Website Redesign</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -267,10 +267,10 @@
                                 <div class="content-area">
                                   <div class="link-area">
                                       <a href="#" class="tags">#Website Dev, SEO</a>
-                                      <a href="case-single.html" class="head">Website Performance Optimization</a>
+                                      <a href="{{route('premium-services')}}" class="head">Website Performance Optimization</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -284,10 +284,10 @@
                                 <div class="content-area">
                                   <div class="link-area">
                                       <a href="#" class="tags">#Software, Website Dev</a>
-                                      <a href="case-single.html" class="head">Custom CRM Development</a>
+                                      <a href="{{route('premium-services')}}" class="head">Custom CRM Development</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -305,11 +305,11 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="case-single.html" class="tags">#SEO</a>
-                                      <a href="case-single.html" class="head">Local SEO Optimization</a>
+                                      <a href="{{route('premium-services')}}" class="tags">#SEO</a>
+                                      <a href="{{route('premium-services')}}" class="head">Local SEO Optimization</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -323,10 +323,10 @@
                                 <div class="content-area">
                                   <div class="link-area">
                                       <a href="#" class="tags">#Ecommerce, SEO</a>
-                                      <a href="case-single.html" class="head">WooCommerce SEO Strategy</a>
+                                      <a href="{{route('premium-services')}}" class="head">WooCommerce SEO Strategy</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -340,10 +340,10 @@
                                 <div class="content-area">
                                   <div class="link-area">
                                       <a href="#" class="tags">#Website Dev, SEO</a>
-                                      <a href="case-single.html" class="head">Website Performance Optimization</a>
+                                      <a href="{{route('premium-services')}}" class="head">Website Performance Optimization</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -362,11 +362,11 @@
                                 </div>
                                 <div class="content-area">
                                   <div class="link-area">
-                                      <a href="case-single.html" class="tags">#Mobile App</a>
-                                      <a href="case-single.html" class="head">Food Delivery App Development</a>
+                                      <a href="{{route('premium-services')}}" class="tags">#Mobile App</a>
+                                      <a href="{{route('premium-services')}}" class="head">Food Delivery App Development</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -380,10 +380,10 @@
                                 <div class="content-area">
                                   <div class="link-area">
                                       <a href="#" class="tags">#Mobile App, Software</a>
-                                      <a href="case-single.html" class="head">Healthcare Mobile Application</a>
+                                      <a href="{{route('premium-services')}}" class="head">Healthcare Mobile Application</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -403,10 +403,10 @@
                                 <div class="content-area">
                                   <div class="link-area">
                                       <a href="#" class="tags">#Software</a>
-                                      <a href="case-single.html" class="head">Inventory Management System</a>
+                                      <a href="{{route('premium-services')}}" class="head">Inventory Management System</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -420,10 +420,10 @@
                                 <div class="content-area">
                                   <div class="link-area">
                                       <a href="#" class="tags">#Mobile App, Software</a>
-                                      <a href="case-single.html" class="head">Healthcare Mobile Application</a>
+                                      <a href="{{route('premium-services')}}" class="head">Healthcare Mobile Application</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>
@@ -437,10 +437,10 @@
                                 <div class="content-area">
                                   <div class="link-area">
                                       <a href="#" class="tags">#Software, Website Dev</a>
-                                      <a href="case-single.html" class="head">Custom CRM Development</a>
+                                      <a href="{{route('premium-services')}}" class="head">Custom CRM Development</a>
                                   </div>
                                   <div class="arrow">
-                                    <a href="case-single.html"><i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                                   </div>
                                 </div>
                               </div>

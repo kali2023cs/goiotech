@@ -41,7 +41,7 @@
             <ul>
               <li><a href="{{route('blog')}}">Our Blog</a></li>
               <li><a href="{{route('about')}}">About Us</a></li>
-              <li><a href="{{route('service5')}}">Services</a></li>
+              <li><a href="{{route('premium-services')}}">Services</a></li>
               <li><a href="{{route('case')}}">Marketing</a></li>
               <li><a href="{{route('testimonials')}}">Testimonials</a></li>
               <li><a href="{{route('contact')}}">Contact Us</a></li>
@@ -53,8 +53,8 @@
           <div class="footer-logo-area2">
             <h3>Get in touch</h3>
             <ul>
-              <li><a href="404-4.html"><img src="assets/img/icons/email.svg" alt=""><span>Infoseoc@gmail.com</span></a></li>
-              <li><a href="#"><img src="assets/img/icons/location.svg" alt=""><span>8708 Technology Forest <br class="d-lg-block d-none"> Pl Suite 125 -G, The <br class="d-lg-block d-none"> Woodlands, TX 773</span></a></li>
+              <li><a href="{{route('404')}}"><img src="assets/img/icons/email.svg" alt=""><span>goiotech.in@gmail.com</span></a></li>
+              <li><a href="#"><img src="assets/img/icons/location.svg" alt=""><span>Goio Tech<br class="d-lg-block d-none"> 161/24,Mangalam Colony<br class="d-lg-block d-none"> Chennai-600040</span></a></li>
               <li><a href="tel:123-456-7890"><img src="assets/img/icons/phone.svg" alt=""><span>123-456-7890</span></a></li>
             </ul>
           </div>

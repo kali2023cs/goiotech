@@ -8,8 +8,8 @@
         <div class="row">
             <div class="col-lg-8 m-auto">
                 <div class="about-inner-header heading9 text-center">
-                    <h1>Search Engine Optimization Services</h1>
-                    <a href="index.html">Home <i class="fa-solid fa-angle-right"></i> Services <i class="fa-solid fa-angle-right"></i> <span>SEO</span></a>
+                    <h1>Custom Website Development Services</h1>
+                    <a href="{{route('home')}}">Home <i class="fa-solid fa-angle-right"></i> Services <i class="fa-solid fa-angle-right"></i> <span>Web Development</span></a>
                 </div>
             </div>
         </div>
@@ -24,7 +24,7 @@
       <div class="col-lg-4">
         <div class="about-images">
          <figure class="">
-          <img src="assets/img/all-images/about-img1.png" alt="SEO experts analyzing website performance">
+          <img src="assets/img/all-images/about-img1.png" alt="Web developers collaborating on project">
          </figure>
           <img src="assets/img/elements/star1.png" alt="" class="star1 keyframe5">
         </div>
@@ -37,10 +37,10 @@
             <img src="assets/img/icons/arrow.svg" alt="" class="arrow">
           </a>
           </div>
-          <h2 class="text-anime-style-3">Data-Driven SEO Strategies for Sustainable Growth</h2>
-          <p>At Goio Tech, we specialize in comprehensive SEO solutions that drive measurable results. Our team of certified professionals combines technical expertise with creative content strategies to improve your search visibility and organic traffic.</p>
+          <h2 class="text-anime-style-3">Future-Ready Web Solutions for Digital Success</h2>
+          <p>At Goio Tech, we craft bespoke websites that combine cutting-edge technology with stunning design. Since our founding in 2025, we've been helping businesses establish powerful digital presences with responsive, scalable, and conversion-optimized websites.</p>
           <div class="btn-area">
-            <a href="about.html" class="header-btn1">Learn More<span><i class="fa-solid fa-arrow-right"></i></span></a>
+            <a href="{{route('about')}}" class="header-btn1">Learn More<span><i class="fa-solid fa-arrow-right"></i></span></a>
           </div>
         </div>
       </div>
@@ -48,7 +48,7 @@
         <div class="about-auhtor-images">
           <img src="assets/img/elements/elements5.png" alt="" class="elements5 keyframe5">
           <figure class="">
-            <img src="assets/img/all-images/about-img2.png" alt="SEO strategy meeting at Goio Tech">
+            <img src="assets/img/all-images/about-img2.png" alt="Web development team at work">
            </figure>
         </div>
       </div>
@@ -63,7 +63,7 @@
       <div class="row align-items-center">
         <div class="col-lg-2">
           <div class="sldier-head">
-            <p>Trusted by  <br class="d-lg-block d-none"> Industry Leaders</p>
+            <p>Trusted by  <br class="d-lg-block d-none"> Innovative Brands</p>
           </div>
         </div>
         <div class="col-lg-10">
@@ -103,12 +103,12 @@
                       <div class="col-lg-6 col-md-6">
                         <div class="img1 ">
                             <div class="space100"></div>
-                          <img src="assets/img/all-images/about-img6.png" alt="Keyword research process">
+                          <img src="assets/img/all-images/about-img6.png" alt="Custom website wireframing">
                         </div>
                       </div>
                       <div class="col-lg-6 col-md-6">
                         <div class="img2 ">
-                          <img src="assets/img/all-images/service-img5.png" alt="SEO strategy session">
+                          <img src="assets/img/all-images/service-img5.png" alt="UI/UX design process">
                         </div>
                       </div>
                     </div>
@@ -116,9 +116,9 @@
             </div>
             <div class="col-lg-4">
                 <div class="works-header-area heading2 specing2">
-                    <h5>SEO Service</h5>
-                    <h2>Strategic Keyword Optimization</h2>
-                    <p>Our comprehensive keyword research identifies high-value opportunities in your industry. We analyze search intent, competition, and conversion potential to build a targeted keyword strategy that aligns with your business objectives.</p>
+                    <h5>Web Development</h5>
+                    <h2>Responsive Web Design</h2>
+                    <p>We create visually stunning websites that adapt seamlessly across all devices. Our mobile-first approach ensures optimal user experience whether visitors are on desktop, tablet, or smartphone.</p>
                 </div>
             </div>
             <div class="col-lg-1"></div>
@@ -129,11 +129,11 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-4">
                 <div class="works-header-area heading2">
-                    <h5>SEO Service</h5>
-                    <h2>Technical SEO Audits</h2>
-                    <p>We conduct in-depth technical audits to identify and fix issues impacting your search performance. Our experts optimize site architecture, improve page speed, and ensure proper indexing for better crawlability.</p>
+                    <h5>Web Development</h5>
+                    <h2>Custom Web Applications</h2>
+                    <p>We build powerful web applications tailored to your specific business needs. From CRM systems to e-commerce platforms, our solutions streamline operations and enhance productivity.</p>
                     <div class="space16"></div>
-                    <p>We implement structured data markup and enhance your website's internal linking structure to maximize search visibility.</p>
+                    <p>Our full-stack developers leverage the latest technologies including React, Node.js, and Laravel to create robust, scalable solutions.</p>
                 </div>
             </div>
 
@@ -145,12 +145,12 @@
                       <div class="col-lg-6 col-md-6">
                         <div class="img1 ">
                             <div class="space100"></div>
-                          <img src="assets/img/all-images/service-img6.png" alt="Technical SEO analysis">
+                          <img src="assets/img/all-images/service-img6.png" alt="Web application development">
                         </div>
                       </div>
                       <div class="col-lg-6 col-md-6">
                         <div class="img2 ">
-                          <img src="assets/img/all-images/service-img7.png" alt="Website optimization">
+                          <img src="assets/img/all-images/service-img7.png" alt="Code review session">
                         </div>
                       </div>
                     </div>
@@ -171,12 +171,12 @@
                       <div class="col-lg-6 col-md-6">
                         <div class="img1 ">
                             <div class="space100"></div>
-                          <img src="assets/img/all-images/service-img8.png" alt="Content creation process">
+                          <img src="assets/img/all-images/service-img8.png" alt="E-commerce development">
                         </div>
                       </div>
                       <div class="col-lg-6 col-md-6">
                         <div class="img2 ">
-                          <img src="assets/img/all-images/service-img9.png" alt="SEO content strategy">
+                          <img src="assets/img/all-images/service-img9.png" alt="Website performance testing">
                         </div>
                       </div>
                     </div>
@@ -184,11 +184,11 @@
             </div>
             <div class="col-lg-4">
                 <div class="works-header-area heading2 specing2">
-                    <h5>SEO Service</h5>
-                    <h2>Content Strategy & Optimization</h2>
-                    <p>We develop data-driven content strategies that engage your audience and rank well in search results. Our team creates SEO-optimized content tailored to your buyer personas and search intent.</p>
+                    <h5>Web Development</h5>
+                    <h2>E-Commerce Solutions</h2>
+                    <p>We develop high-converting e-commerce platforms with seamless checkout experiences. Our solutions integrate with major payment gateways and inventory management systems.</p>
                     <div class="space16"></div>
-                    <p>We perform comprehensive content audits to identify optimization opportunities and gaps in your existing content.</p>
+                    <p>From Shopify stores to custom Magento solutions, we build online shops that drive sales and enhance customer experience.</p>
                 </div>
             </div>
             <div class="col-lg-1"></div>
@@ -205,8 +205,8 @@
     <div class="row">
       <div class="col-lg-8 m-auto">  
         <div class="cta-header-area text-center sp4 heading2">
-          <h2>Competitor SEO Analysis</h2>
-          <p>Discover the keywords driving traffic to your competitors' sites and uncover <br class="d-lg-block d-none"> their SEO strategies with our comprehensive analysis tools</p>
+          <h2>Free Website Audit</h2>
+          <p>Discover how your current website performs and uncover <br class="d-lg-block d-none"> opportunities for improvement with our comprehensive audit</p>
           <div class="space32"></div>
           <div class="form-area">
             <form>
@@ -226,9 +226,9 @@
           </div>
           <ul>
             <li>Try:</li>
-            <li><a href="#">Digital Marketing</a></li>
-            <li><a href="#">Ecommerce SEO</a></li>
-            <li><a href="#">Local SEO</a></li>
+            <li><a href="#">Speed Test</a></li>
+            <li><a href="#">Mobile Responsiveness</a></li>
+            <li><a href="#">SEO Health</a></li>
           </ul>
         </div>
       </div>
@@ -244,8 +244,8 @@
            <div class="row">
               <div class="col-lg-8 m-auto">
                  <div class="analysis-inner-section text-center heading2">
-                     <h5>Website Analysis</h5>
-                    <h2>Comprehensive SEO Audit <br class="d-lg-block d-none"> And Performance Metrics</h2>
+                     <h5>Technology Stack</h5>
+                    <h2>Our Preferred Development <br class="d-lg-block d-none"> Technologies</h2>
                  </div>
               </div>
            </div>
@@ -259,7 +259,7 @@
                                 <div class="services-seo-heading">
                                    <h4 class="services-seo-heading-title">
                                       <input id="remeber" type="checkbox">
-                                      <label for="remeber">Domain</label>
+                                      <label for="remeber">Technology</label>
                                    </h4>
                                 </div>
                              </div>
@@ -268,23 +268,23 @@
                                    <div class="row">
                                       <div class="col-lg-3 col-3">
                                          <div class="services-seo-heading-item services-seo-catagory-one">
-                                            <span>Score</span>
+                                            <span>Type</span>
                                          </div>
                                       </div>
                                       <div class="col-lg-3 col-3">
                                          <div class="services-seo-heading-item services-seo-catagory-two">
-                                            <span>Keyword</span>
+                                            <span>Use Case</span>
                                          </div>
                                       </div>
                                       <div class="col-lg-3 col-3">
                                          <div class="services-seo-heading-item services-seo-catagory-three">
-                                            <span>Traffic</span>
+                                            <span>Advantages</span>
                                          </div>
                                       </div>
                                       <div class="col-lg-3 col-3">
                                          <div class="services-seo-heading-item services-seo-catagory-four">
                                             <div class="rank">
-                                               <span>Rank
+                                               <span>Experience
                                                   <i class="fa-light fa-angle-up"></i>
                                                   <svg width="14" height="14" viewBox="0 0 14 14" fill="none"
                                                      xmlns="http://www.w3.org/2000/svg">
@@ -319,8 +319,8 @@
                                    <div class="services-seo-link d-flex">
                                       <div class="services-seo-link-check">
                                          <input id="seo-link-check" type="checkbox">
-                                         <label for="seo-link-check">Goio Tech SEO Services</label>
-                                         <span><a href="#">https://www.goiotech.com/seo-services/</a></span>
+                                         <label for="seo-link-check">React.js</label>
+                                         <span><a href="#">Frontend Development</a></span>
                                       </div>
                                    </div>
                                 </div>
@@ -329,26 +329,26 @@
                                       <div class="row">
                                          <div class="col-lg-3 col-3">
                                             <div class="services-seo-catagory-item services-seo-catagory-one">
-                                               <span>92</span>
+                                               <span>Framework</span>
                                             </div>
                                          </div>
                                          <div class="col-lg-3 col-3">
                                             <div class="services-seo-catagory-item services-seo-catagory-two">
-                                               <span>SEO Services</span>
+                                               <span>SPAs, PWAs</span>
                                             </div>
                                          </div>
                                          <div class="col-lg-3 col-3">
                                             <div class="services-seo-catagory-item services-seo-catagory-three">
-                                               <span><a href="#">goiotech.com</a></span>
+                                               <span><a href="#">Fast, Scalable</a></span>
                                             </div>
                                          </div>
                                          <div class="col-lg-3 col-3">
                                             <div
                                                class="services-seo-catagory-item services-seo-catagory-four d-flex align-items-center">
-                                               <div class="stable-rank"><span>3</span></div>
+                                               <div class="stable-rank"><span>4+</span></div>
                                                <div class="incridable-rank">
                                                 <i class="fa-solid fa-angle-up"></i>
-                                                  <span>2</span>
+                                                  <span>Years</span>
                                                </div>
                                             </div>
                                          </div>
@@ -363,8 +363,8 @@
                                    <div class="services-seo-link d-flex">
                                       <div class="services-seo-link-check">
                                          <input id="seo-link-check-2" type="checkbox">
-                                         <label for="seo-link-check-2">Digital Marketing Solutions</label>
-                                         <span><a href="#">https://www.goiotech.com/digital-marketing/</a></span>
+                                         <label for="seo-link-check-2">Node.js</label>
+                                         <span><a href="#">Backend Development</a></span>
                                       </div>
                                    </div>
                                 </div>
@@ -373,26 +373,26 @@
                                       <div class="row">
                                          <div class="col-lg-3 col-3">
                                             <div class="services-seo-catagory-item services-seo-catagory-one">
-                                               <span>88</span>
+                                               <span>Runtime</span>
                                             </div>
                                          </div>
                                          <div class="col-lg-3 col-3">
                                             <div class="services-seo-catagory-item services-seo-catagory-two">
-                                               <span>Digital Marketing</span>
+                                               <span>APIs, Microservices</span>
                                             </div>
                                          </div>
                                          <div class="col-lg-3 col-3">
                                             <div class="services-seo-catagory-item services-seo-catagory-three">
-                                               <span><a href="#">goiotech.com</a></span>
+                                               <span><a href="#">Efficient, JS Fullstack</a></span>
                                             </div>
                                          </div>
                                          <div class="col-lg-3 col-3">
                                             <div
                                                class="services-seo-catagory-item services-seo-catagory-four d-flex align-items-center">
-                                               <div class="stable-rank"><span>5</span></div>
+                                               <div class="stable-rank"><span>5+</span></div>
                                                <div class="incridable-rank">
                                                 <i class="fa-solid fa-angle-up"></i>
-                                                  <span>1</span>
+                                                  <span>Years</span>
                                                </div>
                                             </div>
                                          </div>
@@ -407,8 +407,8 @@
                                    <div class="services-seo-link d-flex">
                                       <div class="services-seo-link-check">
                                          <input id="seo-link-check-3" type="checkbox">
-                                         <label for="seo-link-check-3">Ecommerce SEO Strategies</label>
-                                         <span><a href="#">https://www.goiotech.com/ecommerce-seo/</a></span>
+                                         <label for="seo-link-check-3">Laravel</label>
+                                         <span><a href="#">Enterprise Solutions</a></span>
                                       </div>
                                    </div>
                                 </div>
@@ -417,26 +417,26 @@
                                       <div class="row">
                                          <div class="col-lg-3 col-3">
                                             <div class="services-seo-catagory-item services-seo-catagory-one">
-                                               <span>85</span>
+                                               <span>Framework</span>
                                             </div>
                                          </div>
                                          <div class="col-lg-3 col-3">
                                             <div class="services-seo-catagory-item services-seo-catagory-two">
-                                               <span>Ecommerce SEO</span>
+                                               <span>CMS, Complex Apps</span>
                                             </div>
                                          </div>
                                          <div class="col-lg-3 col-3">
                                             <div class="services-seo-catagory-item services-seo-catagory-three">
-                                               <span><a href="#">goiotech.com</a></span>
+                                               <span><a href="#">Secure, Maintainable</a></span>
                                             </div>
                                          </div>
                                          <div class="col-lg-3 col-3">
                                             <div
                                                class="services-seo-catagory-item services-seo-catagory-four d-flex align-items-center">
-                                               <div class="stable-rank"><span>7</span></div>
+                                               <div class="stable-rank"><span>3+</span></div>
                                                <div class="incridable-rank incridable-rank-y">
                                                 <i class="fa-solid fa-angle-up"></i>
-                                                  <span>3</span>
+                                                  <span>Years</span>
                                                </div>
                                             </div>
                                          </div>
@@ -451,8 +451,8 @@
                                    <div class="services-seo-link d-flex">
                                       <div class="services-seo-link-check">
                                          <input id="seo-link-check-4" type="checkbox">
-                                         <label for="seo-link-check-4">Local SEO Services</label>
-                                         <span><a href="#">https://www.goiotech.com/local-seo/</a></span>
+                                         <label for="seo-link-check-4">Shopify</label>
+                                         <span><a href="#">E-commerce</a></span>
                                       </div>
                                    </div>
                                 </div>
@@ -461,26 +461,26 @@
                                       <div class="row">
                                          <div class="col-lg-3 col-3">
                                             <div class="services-seo-catagory-item services-seo-catagory-one">
-                                               <span>90</span>
+                                               <span>Platform</span>
                                             </div>
                                          </div>
                                          <div class="col-lg-3 col-3">
                                             <div class="services-seo-catagory-item services-seo-catagory-two">
-                                               <span>Local SEO</span>
+                                               <span>Online Stores</span>
                                             </div>
                                          </div>
                                          <div class="col-lg-3 col-3">
                                             <div class="services-seo-catagory-item services-seo-catagory-three">
-                                               <span><a href="#">goiotech.com</a></span>
+                                               <span><a href="#">Quick Launch, Scalable</a></span>
                                             </div>
                                          </div>
                                          <div class="col-lg-3 col-3">
                                             <div
                                                class="services-seo-catagory-item services-seo-catagory-four d-flex align-items-center">
-                                               <div class="stable-rank"><span>4</span></div>
+                                               <div class="stable-rank"><span>4+</span></div>
                                                <div class="incridable-rank">
                                                 <i class="fa-solid fa-angle-up"></i>
-                                                  <span>2</span>
+                                                  <span>Years</span>
                                                </div>
                                             </div>
                                          </div>
@@ -507,7 +507,7 @@
             <div class="col-lg-6 m-auto">
                 <div class="choose-header-area text-center heading2">
                     <h5>Why Choose Us</h5>
-                    <h2>Why Goio Tech Stands Out in SEO</h2>
+                    <h2>Why Goio Tech Excels in Web Development</h2>
                 </div>
             </div>
         </div>
@@ -518,52 +518,52 @@
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                              1. Custom SEO Roadmaps
+                              1. Custom Development Approach
                             </button>
                           </h2>
                           <div id="flush-collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">We develop tailored SEO strategies based on your unique business goals, target audience, and competitive landscape.</div>
+                            <div class="accordion-body">We don't believe in one-size-fits-all solutions. Every website we build is tailored to your specific business needs and goals.</div>
                             <div class="space10"></div>
-                            <div class="accordion-body body2">Our data-driven approach ensures every tactic aligns with your specific growth objectives.</div>
+                            <div class="accordion-body body2">Our process begins with in-depth discovery to understand your unique requirements before writing a single line of code.</div>
                           </div>
                         </div>
                         <div class="space24"></div>
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                              2.Transparent Performance Tracking
+                              2. Performance-Optimized Solutions
                             </button>
                           </h2>
                           <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">We provide real-time dashboards and monthly reports that clearly show your SEO progress and ROI.</div>
+                            <div class="accordion-body">We build websites that load quickly and perform flawlessly, which is crucial for user experience and SEO rankings.</div>
                             <div class="space10"></div>
-                            <div class="accordion-body body2">Our team explains complex metrics in simple terms so you understand exactly what's working.</div>
+                            <div class="accordion-body body2">Our developers implement best practices for code optimization, image compression, and caching strategies.</div>
                           </div>
                         </div>
                         <div class="space24"></div>
                         <div class="accordion-item">
                           <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                              3.Proven Track Record
+                              3. Future-Proof Technology
                             </button>
                           </h2>
                           <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                            <div class="accordion-body">We've helped businesses across industries achieve top rankings and significant traffic growth.</div>
+                            <div class="accordion-body">We use modern, scalable technologies that grow with your business and adapt to future digital trends.</div>
                             <div class="space10"></div>
-                            <div class="accordion-body body2">Our case studies demonstrate consistent success in competitive search landscapes.</div>
+                            <div class="accordion-body body2">Our solutions are built with maintainability and extensibility in mind, saving you costly rebuilds down the road.</div>
                           </div>
                         </div>
                         <div class="space24"></div>
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                                4.Certified SEO Specialists
+                                4. Comprehensive Support
                               </button>
                             </h2>
                             <div id="flush-collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                                <div class="accordion-body">Our team holds certifications from Google, SEMrush, HubSpot, and other industry leaders.</div>
+                                <div class="accordion-body">Our relationship doesn't end at launch. We provide ongoing maintenance, updates, and support.</div>
                                 <div class="space10"></div>
-                                <div class="accordion-body body2">We stay ahead of algorithm updates through continuous training and research.</div>
+                                <div class="accordion-body body2">From security patches to feature additions, we're your long-term digital partner.</div>
                             </div>
                           </div>
                       </div>
@@ -577,12 +577,12 @@
                       <div class="col-lg-6 col-md-6">
                         <div class="img1">
                             <div class="space100"></div>
-                          <img src="assets/img/all-images/service-img5.png" alt="SEO strategy meeting">
+                          <img src="assets/img/all-images/service-img5.png" alt="Web development team meeting">
                         </div>
                       </div>
                       <div class="col-lg-6 col-md-6">
                         <div class="img2">
-                          <img src="assets/img/all-images/service-img9.png" alt="SEO performance analysis">
+                          <img src="assets/img/all-images/service-img9.png" alt="Quality assurance testing">
                         </div>
                       </div>
                     </div>
@@ -594,13 +594,13 @@
 <!--===== CHOOSE AREA ENDS =======-->
 
 <!--===== TEAM AREA STARTS =======-->
-<div class="team-inner-section-area sp1">
+{{-- <div class="team-inner-section-area sp1">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 m-auto">
           <div class="team2-header-area text-center heading2">
             <h5>Our Team</h5>
-            <h2>Meet Our SEO Specialists</h2>
+            <h2>Meet Our Development Experts</h2>
           </div>
         </div>
       </div>
@@ -608,7 +608,7 @@
         <div class="col-lg-3 col-md-6">
           <div class="team-boxarea">
             <div class="img1">
-              <img src="assets/img/all-images/team-img1.png" alt="Alex Johnson - SEO Director">
+              <img src="assets/img/all-images/team-img1.png" alt="David Chen - Lead Developer">
             </div>
             <ul>
               <li><a href="#"><img src="assets/img/icons/facebook.svg" alt="Facebook"></a></li>
@@ -617,8 +617,8 @@
               <li><a href="#" class="m-0"><img src="assets/img/icons/youtube.svg" alt="YouTube"></a></li>
             </ul>
             <div class="content">
-              <a href="team.html">Alex Johnson</a>
-              <p>SEO Director</p>
+              <a href="team.html">David Chen</a>
+              <p>Lead Developer</p>
             </div>
           </div>
         </div>
@@ -626,7 +626,7 @@
         <div class="col-lg-3 col-md-6">
           <div class="team-boxarea">
             <div class="img1">
-              <img src="assets/img/all-images/team-img2.png" alt="Sarah Chen - Technical SEO Specialist">
+              <img src="assets/img/all-images/team-img2.png" alt="Sarah Johnson - Frontend Specialist">
             </div>
             <ul>
                 <li><a href="#"><img src="assets/img/icons/facebook.svg" alt="Facebook"></a></li>
@@ -635,8 +635,8 @@
                 <li><a href="#" class="m-0"><img src="assets/img/icons/youtube.svg" alt="YouTube"></a></li>
             </ul>
             <div class="content">
-              <a href="team.html">Sarah Chen</a>
-              <p>Technical SEO Specialist</p>
+              <a href="team.html">Sarah Johnson</a>
+              <p>Frontend Specialist</p>
             </div>
           </div>
         </div>
@@ -644,7 +644,7 @@
         <div class="col-lg-3 col-md-6">
           <div class="team-boxarea">
             <div class="img1">
-              <img src="assets/img/all-images/team-img3.png" alt="Michael Rodriguez - Content Strategist">
+              <img src="assets/img/all-images/team-img3.png" alt="Michael Rodriguez - Backend Engineer">
             </div>
             <ul>
                 <li><a href="#"><img src="assets/img/icons/facebook.svg" alt="Facebook"></a></li>
@@ -654,7 +654,7 @@
             </ul>
             <div class="content">
               <a href="team.html">Michael Rodriguez</a>
-              <p>Content Strategist</p>
+              <p>Backend Engineer</p>
             </div>
           </div>
         </div>
@@ -662,7 +662,7 @@
         <div class="col-lg-3 col-md-6">
           <div class="team-boxarea m-0">
             <div class="img1">
-              <img src="assets/img/all-images/team-img4.png" alt="Emily Wilson - SEO Analyst">
+              <img src="assets/img/all-images/team-img4.png" alt="Emily Wilson - UX/UI Designer">
             </div>
             <ul>
                 <li><a href="#"><img src="assets/img/icons/facebook.svg" alt="Facebook"></a></li>
@@ -672,7 +672,7 @@
             </ul>
             <div class="content">
               <a href="team.html">Emily Wilson</a>
-              <p>SEO Analyst</p>
+              <p>UX/UI Designer</p>
             </div>
           </div>
         </div>
@@ -681,8 +681,7 @@
   </div>
   <!--===== TEAM AREA ENDS =======-->
 
-
-<!--===== BLOG AREA STARTS =======-->
+  <!--===== BLOG AREA STARTS =======-->
 <div class="blog1-scetion-area sp1 bg2">
     <div class="container">
       <div class="row">
@@ -754,7 +753,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> --}}
 <!--===== BLOG AREA ENDS =======-->
 
 

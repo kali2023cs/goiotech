@@ -8,7 +8,7 @@
             <div class="col-lg-3 m-auto">
                 <div class="about-inner-header heading9 text-center">
                     <h1>About Us</h1>
-                    <a href="index.html">Home <i class="fa-solid fa-angle-right"></i> <span>About Us</span></a>
+                    <a href="{{route('home')}}">Home <i class="fa-solid fa-angle-right"></i></a> <span>About Us</span>
                 </div>
             </div>
         </div>
@@ -57,7 +57,7 @@
 <!--===== ABOUT AREA ENDS =======-->
 <div class="space60"></div>
 <!--===== TESTIMONIAL AREA STARTS =======-->
-<div class="slider-section-area slider-inner sp5">
+{{-- <div class="slider-section-area slider-inner sp5">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-2">
@@ -86,7 +86,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> --}}
 <!--===== TESTIMONIAL AREA ENDS =======-->
 
 <!--===== WORK AREA STARTS =======-->
@@ -104,7 +104,7 @@
                             <img src="assets/img/icons/works-icons7.svg" alt="">
                         </div>
                         <div class="content">
-                            <a href="case.html">Full-Cycle Development</a>
+                            <a href="{{route('premium-services')}}">Full-Cycle Development</a>
                             <p>From initial concept to final deployment, we handle all aspects of web development, ensuring a seamless process and exceptional results.</p>
                         </div>
                     </div>
@@ -114,7 +114,7 @@
                             <img src="assets/img/icons/works-icons8.svg" alt="">
                         </div>
                         <div class="content">
-                            <a href="case-single.html">SEO-Optimized Solutions</a>
+                            <a href="{{route('seo')}}">SEO-Optimized Solutions</a>
                             <p>We build websites with SEO best practices from the ground up, ensuring your digital presence ranks well and attracts quality traffic.</p>
                         </div>
                     </div>
@@ -124,7 +124,7 @@
                             <img src="assets/img/icons/works-icons9.svg" alt="">
                         </div>
                         <div class="content">
-                            <a href="case-single.html">Custom Application Development</a>
+                            <a href="{{route('hotel-management')}}">Custom Application Development</a>
                             <p>We create tailored web applications that solve your specific business challenges and streamline your operations.</p>
                         </div>
                     </div>
@@ -176,15 +176,15 @@
           </div>
           <div class="content-area">
             <h5>Our Expertise</h5>
-            <a href="service1.html" class="text">Explore Our Comprehensive Digital Solutions</a>
+            <a href="{{route('premium-services')}}" class="text">Explore Our Comprehensive Digital Solutions</a>
             <p>We're committed to delivering exceptional value through our expertise in web development, SEO optimization, and custom software solutions tailored to your specific needs.</p>
             <div class="btn-area">
-              <a href="service1.html" class="header-btn1">Learn More <span><i class="fa-solid fa-arrow-right"></i></span>
+              <a href="{{route('about')}}" class="header-btn1">Learn More <span><i class="fa-solid fa-arrow-right"></i></span>
               </a>
             </div>
           </div>
           <div class="arrow-area">
-            <a href="service1.html"><i class="fa-solid fa-arrow-right"></i></a>
+            <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
           </div>
         </div>
       </div>
@@ -194,11 +194,11 @@
             <div class="col-lg-12 col-md-6">
               <div class="service2-auhtor-boxarea">
                 <div class="arrow">
-                  <a href="service1.html"><i class="fa-solid fa-arrow-right"></i></a>
+                  <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                 </div>
                 <div class="content-area">
                   <h5>Our Mission</h5>
-                  <a href="service1.html">To empower businesses through innovative digital solutions</a>
+                  <a href="{{route('premium-services')}}">To empower businesses through innovative digital solutions</a>
                   <p>We strive to create websites and applications that not only look great but also deliver measurable business results through superior functionality and performance.</p>
                 </div>
               </div>
@@ -207,11 +207,11 @@
             <div class="col-lg-12 col-md-6">
               <div class="service2-auhtor2-boxarea">
                 <div class="arrow">
-                  <a href="service1.html"><i class="fa-solid fa-arrow-right"></i></a>
+                  <a href="{{route('premium-services')}}"><i class="fa-solid fa-arrow-right"></i></a>
                 </div>
                 <div class="content-area">
                   <h5>Our Vision</h5>
-                  <a href="service1.html">To be the preferred partner for digital transformation</a>
+                  <a href="{{route('premium-services')}}">To be the preferred partner for digital transformation</a>
                   <p>We envision a future where every business can leverage cutting-edge web technologies and SEO strategies to achieve their full potential in the digital space.</p>
                 </div>
               </div>
@@ -264,36 +264,36 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="history-box-content">
                                 <h5>Our Beginning</h5>
-                                <a href="service1.html">A Vision is Born</a>
+                                <a href="{{route('premium-services')}}">A Vision is Born</a>
                                 <p>GOIO was launched with a simple yet powerful goal: to bring innovative digital experiences to life through technology and creativity.</p>
-                                <a href="service1.html" class="readmore">Explore More <i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="{{route('premium-services')}}" class="readmore">Explore More <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>
 
                         <div class="col-lg-6 col-md-6">
                             <div class="history-box-content">
                                 <h5>The Mission</h5>
-                                <a href="service1.html">Driven by Purpose</a>
+                                <a href="{{route('premium-services')}}">Driven by Purpose</a>
                                 <p>We are here to empower businesses with digital tools that not only solve problems but unlock new possibilities.</p>
-                                <a href="service1.html" class="readmore">Explore More <i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="{{route('premium-services')}}" class="readmore">Explore More <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>
 
                         <div class="col-lg-6 col-md-6">
                             <div class="history-box-content">
                                 <h5>Core Values</h5>
-                                <a href="service1.html">Built on Trust</a>
+                                <a href="{{route('premium-services')}}">Built on Trust</a>
                                 <p>Integrity, innovation, and excellence are the foundation of everything we build and every relationship we foster.</p>
-                                <a href="service1.html" class="readmore">Explore More <i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="{{route('premium-services')}}" class="readmore">Explore More <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>
 
                         <div class="col-lg-6 col-md-6">
                             <div class="history-box-content">
                                 <h5>Looking Ahead</h5>
-                                <a href="service1.html">Future-Forward</a>
+                                <a href="{{route('premium-services')}}">Future-Forward</a>
                                 <p>As we grow, we stay committed to learning, evolving, and pushing the boundaries of what digital can do for our clients.</p>
-                                <a href="service1.html" class="readmore">Explore More <i class="fa-solid fa-arrow-right"></i></a>
+                                <a href="{{route('premium-services')}}" class="readmore">Explore More <i class="fa-solid fa-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -376,7 +376,7 @@
 <!--===== SKILLS AREA ENDS =======-->
 
 <!--===== TEAM AREA STARTS =======-->
-<div class="team-inner-section-area sp2">
+{{-- <div class="team-inner-section-area sp2">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 m-auto">
@@ -460,11 +460,11 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> --}}
   <!--===== TEAM AREA ENDS =======-->
 
 <!--===== TESTIMONIAL AREA STARTS =======-->
-<div class="testimonial1-section-area sp1 bg2">
+{{-- <div class="testimonial1-section-area sp1 bg2">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 m-auto">
@@ -573,7 +573,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> --}}
 <!--===== TESTIMONIAL AREA ENDS =======-->
 
 {{-- Bottom of the page --}}
